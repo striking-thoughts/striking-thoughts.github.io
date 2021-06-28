@@ -3,7 +3,7 @@ publishDir = "docs"
 # Site settings
 baseURL = "https://striking-thoughts.github.io/"
 languageCode = "en-us"
-title = "Forty"
+title = "Strinking Thoughts"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
