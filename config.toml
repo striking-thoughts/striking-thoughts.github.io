@@ -1,7 +1,7 @@
 publishDir = "docs"
 
 # Site settings
-baseURL = "https://strikingthoughts.io/"
+baseURL = "https://www.strikingthoughts.io/"
 languageCode = "en-us"
 title = "Strinking Thoughts"
 theme = "forty"
