@@ -39,7 +39,7 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Strinking Thoughts"
+    title = "StrinkingThoughts.io"
     subtitle = "The Staying Speed"
     menu = "Menu"
     # Optional logo as brand stored in img/
@@ -52,41 +52,40 @@ disqusShortname = ""
     [[params.navigation.links]]
       name = "Blogs"
       url = "blogs"
-
-    [[params.navigation.links]]
-      name = "Generic Blog"
-      url = "blogs/ipsum"
-
-    [[params.navigation.links]]
-      name = "Elements"
-      url = "elements.html"
-
-    # Add custom links here by uncommenting code below. To remove links just delete
-    # the [[params.navigation.links]] map associated with that link. Copy and paste
-    # code below if you need more links. Buttons work in the same way.
-    # [[params.navigation.links]]
-    #    name = "NameOfLink"
-    #    url = "UrlOfLink"
-
-    # Button Style 1
-    [[params.navigation.button1]]
-      name = "Get Started"
-      url = "blogs"
-
-    # Button Style 2
-    [[params.navigation.button2]]
-      name = "Log In"
-      url = "#"
+##
+##    [[params.navigation.links]]
+##      name = "Generic Blog"
+##      url = "blogs/ipsum"
+##
+##    [[params.navigation.links]]
+##      name = "Elements"
+##      url = "elements.html"
+##
+##    # Add custom links here by uncommenting code below. To remove links just delete
+##    # the [[params.navigation.links]] map associated with that link. Copy and paste
+##    # code below if you need more links. Buttons work in the same way.
+##    # [[params.navigation.links]]
+##    #    name = "NameOfLink"
+##    #    url = "UrlOfLink"
+##
+##    # Button Style 1
+##    [[params.navigation.button1]]
+##      name = "Get Started"
+##      url = "blogs"
+##
+##    # Button Style 2
+##    [[params.navigation.button2]]
+##      name = "Log In"
+##      url = "#"
 
 
   # Banner section
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Welcome to Tiago's creative outlet."
-    subtitle = "He is a dreamer who is always creating something new. This is the show case of his projects."
-    # buttonText = "Check it out"
-
+    title = "Tiago's Creative Outlet"
+    subtitle = "Below you will find a set of featured projects that Tiago is proud of."
+    buttonText = "See Projects"
 
   # Tiles Section
   [params.tiles]
@@ -97,44 +96,33 @@ disqusShortname = ""
       title = "Camp Fire Works"
       subtitle = "This is a game that a group of friends created to be able to shoot fireworks together while respecting the social distancing guidelines and rules due to COVID19."
       tags = ["VR", "Multiplayer"]
+      state = ["Game:Released"]
       image = "pic01.jpg"
       url = "blogs/aliquam"
 
-##    [[params.tiles.showcase]]
-##      title = "Perspective Wand"
-##      subtitle = "VR, WebGL, Experience"
-##      tags = "Tag1, Tag2"
-##      image = "pic02.jpg"
-##      url = "blogs/tempus"
-##
-##    [[params.tiles.showcase]]
-##      title = "Space Monks"
-##      subtitle = "48hrs Game Jam, Multiplayer"
-##      tags = "Tag1, Tag2"
-##      image = "pic03.jpg"
-##      url = "blogs/magna"
-##
-##    [[params.tiles.showcase]]
-##      title = "Ionic Defender"
-##      subtitle = "Arcade, HomeTeam GameDev, Released"
-##      tags = "Tag1, Tag2"
-##      image = "pic04.jpg"
-##      url = "blogs/ipsum"
-##
-##    [[params.tiles.showcase]]
-##      title = "SHIFT"
-##      subtitle = "College Project, 3D Platformer, Released"
-##      tags = "Tag1, Tag2"
-##      image = "pic05.jpg"
-##      url = "blogs/ipsum"
-##
-##    [[params.tiles.showcase]]
-##      title = "Math Puzzles"
-##      subtitle = "Feugiat Amet Tempus"
-##      tags = "Tag1, Tag2"
-##      image = "pic06.jpg"
-##      url = "blogs/ipsum"
-##    # You can make more showcases by copy and pasting the code above
+    [[params.tiles.showcase]]
+      title = "Ionic Defender"
+      subtitle = "a surprisingly addictive gameplay!"
+      tags = ["Arcade", "HomeTeam GameDev"]
+      state = ["Game:Released"]
+      image = "pic04.jpg"
+      url = "blogs/ipsum"
+
+    [[params.tiles.showcase]]
+      title = "Space Monks"
+      subtitle = "A RPG system where the health of all players are joined together."
+      tags = ["hackathon", "GMTK2021", "Multiplayer"]
+      state = ["Prototype:Completed"]
+      image = "pic03.jpg"
+      url = "blogs/magna"
+
+    [[params.tiles.showcase]]
+      title = "Perspective Wand"
+      subtitle = "One of the mechanics of Superluminal in VR. It is a delight to play with this perspective game mechanic in VR."
+      tags = ["Project", "VR", "WebGL"]
+      state = ["Prototype:Completed"]
+      image = "pic02.jpg"
+      url = "blogs/tempus"
 
   [params.blog]
     # All blogs defined in their own files. You can find example blogs
@@ -143,17 +131,17 @@ disqusShortname = ""
     # For more informtion take a look at the README.
     # To add more blogs just copy and paste the code.
 
-  # Section Type Two
-  [params.two]
-    enable = true
-    title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
-    buttonText = "Get Started"
-    url = "blogs"
+#  # Section Type Two
+#  [params.two]
+#    enable = true
+#    title = "Massa libero"
+#    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
+#    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
+#    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
+#    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
+#    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
+#    buttonText = "Get Started"
+#    url = "blogs"
 
 
   # Contact section
