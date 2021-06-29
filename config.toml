@@ -98,7 +98,7 @@ disqusShortname = ""
       tags = ["VR", "Multiplayer"]
       state = ["Game:Released"]
       image = "showcase/camp-fireworks.png"
-      url = "blogs/aliquam"
+      url = "blogs/camp-fireworks"
 
     [[params.tiles.showcase]]
       title = "Ionic Defender"
@@ -106,7 +106,7 @@ disqusShortname = ""
       tags = ["Arcade", "HomeTeam GameDev"]
       state = ["Game:Released"]
       image = "showcase/ionic-defender.png"
-      url = "blogs/ipsum"
+      url = "blogs/ionic-defender"
 
     [[params.tiles.showcase]]
       title = "Space Monks"
@@ -114,7 +114,7 @@ disqusShortname = ""
       tags = ["hackathon", "GMTK2021", "Multiplayer"]
       state = ["Prototype:Completed"]
       image = "showcase/space-monks.png"
-      url = "blogs/magna"
+      url = "blogs/space-monks"
 
     [[params.tiles.showcase]]
       title = "Perspective Wand"
@@ -122,7 +122,7 @@ disqusShortname = ""
       tags = ["Project", "VR", "WebGL"]
       state = ["Prototype:Completed"]
       image = "showcase/perspective-wand.png"
-      url = "blogs/tempus"
+      url = "blogs/perspective-wand"
 
   [params.blog]
     # All blogs defined in their own files. You can find example blogs

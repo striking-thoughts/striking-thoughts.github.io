@@ -37,3 +37,7 @@
 .tiles article:nth-child(6n) .tag {
     background-color: #5ba77e;
 }
+
+#banner::after {
+    opacity: 0;
+}
