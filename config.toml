@@ -97,7 +97,7 @@ disqusShortname = ""
       subtitle = "This is a game that a group of friends created to be able to shoot fireworks together while respecting the social distancing guidelines and rules due to COVID19."
       tags = ["VR", "Multiplayer"]
       state = ["Game:Released"]
-      image = "pic01.jpg"
+      image = "showcase/camp-fireworks.png"
       url = "blogs/aliquam"
 
     [[params.tiles.showcase]]
@@ -105,7 +105,7 @@ disqusShortname = ""
       subtitle = "a surprisingly addictive gameplay!"
       tags = ["Arcade", "HomeTeam GameDev"]
       state = ["Game:Released"]
-      image = "pic04.jpg"
+      image = "showcase/ionic-defender.png"
       url = "blogs/ipsum"
 
     [[params.tiles.showcase]]
@@ -113,7 +113,7 @@ disqusShortname = ""
       subtitle = "A RPG system where the health of all players are joined together."
       tags = ["hackathon", "GMTK2021", "Multiplayer"]
       state = ["Prototype:Completed"]
-      image = "pic03.jpg"
+      image = "showcase/space-monks.png"
       url = "blogs/magna"
 
     [[params.tiles.showcase]]
@@ -121,7 +121,7 @@ disqusShortname = ""
       subtitle = "One of the mechanics of Superluminal in VR. It is a delight to play with this perspective game mechanic in VR."
       tags = ["Project", "VR", "WebGL"]
       state = ["Prototype:Completed"]
-      image = "pic02.jpg"
+      image = "showcase/perspective-wand.png"
       url = "blogs/tempus"
 
   [params.blog]
