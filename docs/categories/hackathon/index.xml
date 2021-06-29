@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hackathon on Strinking Thoughts</title>
-    <link>https://striking-thoughts.github.io/categories/hackathon/</link>
+    <link>https://striking-thoughts.io/categories/hackathon/</link>
     <description>Recent content in hackathon on Strinking Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2021 21:28:43 -0500</lastBuildDate><atom:link href="https://striking-thoughts.github.io/categories/hackathon/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2021 21:28:43 -0500</lastBuildDate><atom:link href="https://striking-thoughts.io/categories/hackathon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Perspective Wand</title>
-      <link>https://striking-thoughts.github.io/blogs/perspective-wand/</link>
+      <link>https://striking-thoughts.io/blogs/perspective-wand/</link>
       <pubDate>Fri, 01 Jan 2021 21:28:43 -0500</pubDate>
       
-      <guid>https://striking-thoughts.github.io/blogs/perspective-wand/</guid>
+      <guid>https://striking-thoughts.io/blogs/perspective-wand/</guid>
       <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
     </item>
     
     <item>
       <title>Space Monks</title>
-      <link>https://striking-thoughts.github.io/blogs/space-monks/</link>
+      <link>https://striking-thoughts.io/blogs/space-monks/</link>
       <pubDate>Fri, 01 Jan 2021 21:28:43 -0500</pubDate>
       
-      <guid>https://striking-thoughts.github.io/blogs/space-monks/</guid>
+      <guid>https://striking-thoughts.io/blogs/space-monks/</guid>
       <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
     </item>
     

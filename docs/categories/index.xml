@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Strinking Thoughts</title>
-    <link>https://striking-thoughts.github.io/categories/</link>
+    <link>https://striking-thoughts.io/categories/</link>
     <description>Recent content in Categories on Strinking Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2021 21:28:43 -0500</lastBuildDate><atom:link href="https://striking-thoughts.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2021 21:28:43 -0500</lastBuildDate><atom:link href="https://striking-thoughts.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arcade</title>
-      <link>https://striking-thoughts.github.io/categories/arcade/</link>
+      <link>https://striking-thoughts.io/categories/arcade/</link>
       <pubDate>Fri, 01 Jan 2021 21:28:43 -0500</pubDate>
       
-      <guid>https://striking-thoughts.github.io/categories/arcade/</guid>
+      <guid>https://striking-thoughts.io/categories/arcade/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GMTK</title>
-      <link>https://striking-thoughts.github.io/categories/gmtk/</link>
+      <link>https://striking-thoughts.io/categories/gmtk/</link>
       <pubDate>Fri, 01 Jan 2021 21:28:43 -0500</pubDate>
       
-      <guid>https://striking-thoughts.github.io/categories/gmtk/</guid>
+      <guid>https://striking-thoughts.io/categories/gmtk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GMTK2021</title>
-      <link>https://striking-thoughts.github.io/categories/gmtk2021/</link>
+      <link>https://striking-thoughts.io/categories/gmtk2021/</link>
       <pubDate>Fri, 01 Jan 2021 21:28:43 -0500</pubDate>
       
-      <guid>https://striking-thoughts.github.io/categories/gmtk2021/</guid>
+      <guid>https://striking-thoughts.io/categories/gmtk2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hackathon</title>
-      <link>https://striking-thoughts.github.io/categories/hackathon/</link>
+      <link>https://striking-thoughts.io/categories/hackathon/</link>
       <pubDate>Fri, 01 Jan 2021 21:28:43 -0500</pubDate>
       
-      <guid>https://striking-thoughts.github.io/categories/hackathon/</guid>
+      <guid>https://striking-thoughts.io/categories/hackathon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HomeTeam GameDev</title>
-      <link>https://striking-thoughts.github.io/categories/hometeam-gamedev/</link>
+      <link>https://striking-thoughts.io/categories/hometeam-gamedev/</link>
       <pubDate>Fri, 01 Jan 2021 21:28:43 -0500</pubDate>
       
-      <guid>https://striking-thoughts.github.io/categories/hometeam-gamedev/</guid>
+      <guid>https://striking-thoughts.io/categories/hometeam-gamedev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiplayer</title>
-      <link>https://striking-thoughts.github.io/categories/multiplayer/</link>
+      <link>https://striking-thoughts.io/categories/multiplayer/</link>
       <pubDate>Fri, 01 Jan 2021 21:28:43 -0500</pubDate>
       
-      <guid>https://striking-thoughts.github.io/categories/multiplayer/</guid>
+      <guid>https://striking-thoughts.io/categories/multiplayer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VR</title>
-      <link>https://striking-thoughts.github.io/categories/vr/</link>
+      <link>https://striking-thoughts.io/categories/vr/</link>
       <pubDate>Fri, 01 Jan 2021 21:28:43 -0500</pubDate>
       
-      <guid>https://striking-thoughts.github.io/categories/vr/</guid>
+      <guid>https://striking-thoughts.io/categories/vr/</guid>
       <description></description>
     </item>
     
