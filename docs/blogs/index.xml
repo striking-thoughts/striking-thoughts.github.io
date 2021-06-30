@@ -8,6 +8,18 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate><atom:link href="https://www.strikingthoughts.io/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Perspective Wand</title>
+      <link>https://www.strikingthoughts.io/blogs/perspective-wand/</link>
+      <pubDate>Sun, 28 Feb 2021 01:01:01 -0100</pubDate>
+      
+      <guid>https://www.strikingthoughts.io/blogs/perspective-wand/</guid>
+      <description>This experience is inspired on the game &amp;ldquo;Superluminal&amp;rdquo; (link to steam). The goal was to see how it would feel to play with this perspective mechanic in VR.
+it is pretty amazing!
+Check out more info about my development process here:
+ https://notes.tiago.dev/post/projects/perspective-wand/  </description>
+    </item>
+    
+    <item>
       <title>Camp Fireworks</title>
       <link>https://www.strikingthoughts.io/blogs/camp-fireworks/</link>
       <pubDate>Fri, 01 Jan 2021 21:28:43 -0500</pubDate>
@@ -26,56 +38,11 @@
     </item>
     
     <item>
-      <title>Perspective Wand</title>
-      <link>https://www.strikingthoughts.io/blogs/perspective-wand/</link>
-      <pubDate>Fri, 01 Jan 2021 21:28:43 -0500</pubDate>
-      
-      <guid>https://www.strikingthoughts.io/blogs/perspective-wand/</guid>
-      <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
-    </item>
-    
-    <item>
       <title>Space Monks</title>
       <link>https://www.strikingthoughts.io/blogs/space-monks/</link>
       <pubDate>Fri, 01 Jan 2021 21:28:43 -0500</pubDate>
       
       <guid>https://www.strikingthoughts.io/blogs/space-monks/</guid>
-      <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
-    </item>
-    
-    <item>
-      <title>Aliquam</title>
-      <link>https://www.strikingthoughts.io/blogs/aliquam/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
-      <guid>https://www.strikingthoughts.io/blogs/aliquam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tempus</title>
-      <link>https://www.strikingthoughts.io/blogs/tempus/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
-      
-      <guid>https://www.strikingthoughts.io/blogs/tempus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Magna</title>
-      <link>https://www.strikingthoughts.io/blogs/magna/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
-      
-      <guid>https://www.strikingthoughts.io/blogs/magna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ipsum</title>
-      <link>https://www.strikingthoughts.io/blogs/ipsum/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>https://www.strikingthoughts.io/blogs/ipsum/</guid>
       <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
     </item>
     

@@ -6,7 +6,43 @@
     <description>Recent content in Categories on Strinking Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2021 21:28:43 -0500</lastBuildDate><atom:link href="https://www.strikingthoughts.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Feb 2021 01:01:01 -0100</lastBuildDate><atom:link href="https://www.strikingthoughts.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GMTK</title>
+      <link>https://www.strikingthoughts.io/categories/gmtk/</link>
+      <pubDate>Sun, 28 Feb 2021 01:01:01 -0100</pubDate>
+      
+      <guid>https://www.strikingthoughts.io/categories/gmtk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GMTK2021</title>
+      <link>https://www.strikingthoughts.io/categories/gmtk2021/</link>
+      <pubDate>Sun, 28 Feb 2021 01:01:01 -0100</pubDate>
+      
+      <guid>https://www.strikingthoughts.io/categories/gmtk2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hackathon</title>
+      <link>https://www.strikingthoughts.io/categories/hackathon/</link>
+      <pubDate>Sun, 28 Feb 2021 01:01:01 -0100</pubDate>
+      
+      <guid>https://www.strikingthoughts.io/categories/hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiplayer</title>
+      <link>https://www.strikingthoughts.io/categories/multiplayer/</link>
+      <pubDate>Sun, 28 Feb 2021 01:01:01 -0100</pubDate>
+      
+      <guid>https://www.strikingthoughts.io/categories/multiplayer/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Arcade</title>
       <link>https://www.strikingthoughts.io/categories/arcade/</link>
@@ -17,47 +53,11 @@
     </item>
     
     <item>
-      <title>GMTK</title>
-      <link>https://www.strikingthoughts.io/categories/gmtk/</link>
-      <pubDate>Fri, 01 Jan 2021 21:28:43 -0500</pubDate>
-      
-      <guid>https://www.strikingthoughts.io/categories/gmtk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GMTK2021</title>
-      <link>https://www.strikingthoughts.io/categories/gmtk2021/</link>
-      <pubDate>Fri, 01 Jan 2021 21:28:43 -0500</pubDate>
-      
-      <guid>https://www.strikingthoughts.io/categories/gmtk2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hackathon</title>
-      <link>https://www.strikingthoughts.io/categories/hackathon/</link>
-      <pubDate>Fri, 01 Jan 2021 21:28:43 -0500</pubDate>
-      
-      <guid>https://www.strikingthoughts.io/categories/hackathon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>HomeTeam GameDev</title>
       <link>https://www.strikingthoughts.io/categories/hometeam-gamedev/</link>
       <pubDate>Fri, 01 Jan 2021 21:28:43 -0500</pubDate>
       
       <guid>https://www.strikingthoughts.io/categories/hometeam-gamedev/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multiplayer</title>
-      <link>https://www.strikingthoughts.io/categories/multiplayer/</link>
-      <pubDate>Fri, 01 Jan 2021 21:28:43 -0500</pubDate>
-      
-      <guid>https://www.strikingthoughts.io/categories/multiplayer/</guid>
       <description></description>
     </item>
     
