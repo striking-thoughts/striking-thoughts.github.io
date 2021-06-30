@@ -9,8 +9,14 @@ categories:
     - "GMTK"
     - "GMTK2021"
     - "Multiplayer"
-date: 2021-01-01T21:28:43-05:00
+date: 2021-02-28T01:01:01-01:00
 draft: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+This experience is inspired on the game "Superluminal" (link to steam).
+The goal was to see how it would feel to play with this perspective mechanic in VR.
+
+it is pretty amazing!
+
+Check out more info about my development process here:
+- https://notes.tiago.dev/post/projects/perspective-wand/
