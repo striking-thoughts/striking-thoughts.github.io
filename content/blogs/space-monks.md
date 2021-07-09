@@ -1,6 +1,6 @@
 ---
 title: "Space Monks"
-description: ""
+description: "A RPG system where the health of all players are joined together"
 slug: "space-monks"
 image: space-monks.png
 keywords: ""
@@ -9,8 +9,19 @@ categories:
     - "GMTK"
     - "GMTK2021"
     - "Multiplayer"
-date: 2021-01-01T21:28:43-05:00
+date: 2021-06-13T01:01:01-01:00
 draft: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+## Original Idea:
+"A RPG system where the health of all players are joined together"
+
+This was a game created for the Game Makers Tool Kit Jam 2021.
+
+https://www.gmtkgamejam.com/
+jammed together by
+Tiago and Rob
+
+## Release
+https://github.com/tiagosomda/space-monks-vs-zombies
+- note: we never got to the zombies part.
