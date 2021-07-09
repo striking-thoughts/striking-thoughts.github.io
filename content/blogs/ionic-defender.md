@@ -1,14 +1,19 @@
 ---
 title: "Ionic Defender"
-description: ""
+description: "Roast space rocks and defend the city from Bacterion!"
 slug: "ionic-defender"
 image: ionic-defender.png
 keywords: ""
 categories: 
     - "Arcade"
     - "HomeTeam GameDev"
-date: 2021-01-01T21:28:43-05:00
+date: 2021-06-28T01:01:01-01:00
 draft: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+This was a game created by the Team Ionic Defender in the HomeTeamGameDev Outpost group.  
+It was a very experience where people from many different timezones and countries worked together asynchronously to create this game.  
+All the assests were created by the team members.
+
+## Release
+https://hometeamgamedev.itch.io/ionic-defender
