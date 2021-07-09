@@ -8,6 +8,31 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate><atom:link href="https://www.strikingthoughts.io/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Ionic Defender</title>
+      <link>https://www.strikingthoughts.io/blogs/ionic-defender/</link>
+      <pubDate>Mon, 28 Jun 2021 01:01:01 -0100</pubDate>
+      
+      <guid>https://www.strikingthoughts.io/blogs/ionic-defender/</guid>
+      <description>This was a game created by the Team Ionic Defender in the HomeTeamGameDev Outpost group.
+It was a very experience where people from many different timezones and countries worked together asynchronously to create this game.
+All the assests were created by the team members.
+Release https://hometeamgamedev.itch.io/ionic-defender</description>
+    </item>
+    
+    <item>
+      <title>Space Monks</title>
+      <link>https://www.strikingthoughts.io/blogs/space-monks/</link>
+      <pubDate>Sun, 13 Jun 2021 01:01:01 -0100</pubDate>
+      
+      <guid>https://www.strikingthoughts.io/blogs/space-monks/</guid>
+      <description>Original Idea: &amp;ldquo;A RPG system where the health of all players are joined together&amp;rdquo;
+This was a game created for the Game Makers Tool Kit Jam 2021.
+https://www.gmtkgamejam.com/ jammed together by Tiago and Rob
+Release https://github.com/tiagosomda/space-monks-vs-zombies
+ note: we never got to the zombies part.  </description>
+    </item>
+    
+    <item>
       <title>Perspective Wand</title>
       <link>https://www.strikingthoughts.io/blogs/perspective-wand/</link>
       <pubDate>Sun, 28 Feb 2021 01:01:01 -0100</pubDate>
@@ -22,28 +47,12 @@ Check out more info about my development process here:
     <item>
       <title>Camp Fireworks</title>
       <link>https://www.strikingthoughts.io/blogs/camp-fireworks/</link>
-      <pubDate>Fri, 01 Jan 2021 21:28:43 -0500</pubDate>
+      <pubDate>Sat, 06 Jun 2020 01:01:01 -0100</pubDate>
       
       <guid>https://www.strikingthoughts.io/blogs/camp-fireworks/</guid>
-      <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
-    </item>
-    
-    <item>
-      <title>Ionic Defender</title>
-      <link>https://www.strikingthoughts.io/blogs/ionic-defender/</link>
-      <pubDate>Fri, 01 Jan 2021 21:28:43 -0500</pubDate>
-      
-      <guid>https://www.strikingthoughts.io/blogs/ionic-defender/</guid>
-      <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
-    </item>
-    
-    <item>
-      <title>Space Monks</title>
-      <link>https://www.strikingthoughts.io/blogs/space-monks/</link>
-      <pubDate>Fri, 01 Jan 2021 21:28:43 -0500</pubDate>
-      
-      <guid>https://www.strikingthoughts.io/blogs/space-monks/</guid>
-      <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
+      <description>This game was created by a group of friends who wanted to get together for fireworks and knew that doing that in the physical world would not be safe due to COVID19.
+We then got together to create a VR experience that allowed us to shoot fireworks while respecting the social distancing guidelines and rules.
+After shooting fireworks for a while, we just sat by the camp fire and talked for a while.</description>
     </item>
     
   </channel>
