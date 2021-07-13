@@ -50,7 +50,7 @@ disqusShortname = ""
       url = "#"
 
     [[params.navigation.links]]
-      name = "Blogs"
+      name = "See All Projects"
       url = "blogs"
 ##
 ##    [[params.navigation.links]]
