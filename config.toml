@@ -51,11 +51,11 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "See All Projects"
-      url = "blogs"
+      url = "projects"
 ##
 ##    [[params.navigation.links]]
 ##      name = "Generic Blog"
-##      url = "blogs/ipsum"
+##      url = "projects/ipsum"
 ##
 ##    [[params.navigation.links]]
 ##      name = "Elements"
@@ -71,7 +71,7 @@ disqusShortname = ""
 ##    # Button Style 1
 ##    [[params.navigation.button1]]
 ##      name = "Get Started"
-##      url = "blogs"
+##      url = "projects"
 ##
 ##    # Button Style 2
 ##    [[params.navigation.button2]]
@@ -98,7 +98,7 @@ disqusShortname = ""
       tags = ["VR", "Multiplayer"]
       state = ["Game:Released"]
       image = "showcase/camp-fireworks.png"
-      url = "blogs/camp-fireworks"
+      url = "projects/camp-fireworks"
 
     [[params.tiles.showcase]]
       title = "Ionic Defender"
@@ -106,7 +106,7 @@ disqusShortname = ""
       tags = ["Arcade", "HomeTeam GameDev"]
       state = ["Game:Released"]
       image = "showcase/ionic-defender.png"
-      url = "blogs/ionic-defender"
+      url = "projects/ionic-defender"
 
     [[params.tiles.showcase]]
       title = "Space Monks"
@@ -114,7 +114,7 @@ disqusShortname = ""
       tags = ["Hackathon", "GMTK2021", "Multiplayer"]
       state = ["Prototype:Completed"]
       image = "showcase/space-monks.png"
-      url = "blogs/space-monks"
+      url = "projects/space-monks"
 
     [[params.tiles.showcase]]
       title = "Perspective Wand"
@@ -122,7 +122,7 @@ disqusShortname = ""
       tags = ["Project", "VR", "WebGL"]
       state = ["Prototype:Completed"]
       image = "showcase/perspective-wand.png"
-      url = "blogs/perspective-wand"
+      url = "projects/perspective-wand"
 
     [[params.tiles.showcase]]
       title = "Astro City (Giant Octopus)"
@@ -130,7 +130,7 @@ disqusShortname = ""
       tags = ["Hackathon", "VR", "Multiplayer", "Cross-Platform", "Asymmetric Gameplay"]
       state = ["Hackathon:Winner"]
       image = "showcase/giant-octopus.png"
-      url = "blogs/giant-octopus"
+      url = "projects/giant-octopus"
 
     [[params.tiles.showcase]]
       title = "Missile Mania"
@@ -138,7 +138,7 @@ disqusShortname = ""
       tags = ["Hackathon", "VR", "Vive Tracker"]
       state = ["Hackathon:Winner"]
       image = "showcase/missile-mania.png"
-      url = "blogs/missile-mania"
+      url = "projects/missile-mania"
 
   [params.blog]
     # All blogs defined in their own files. You can find example blogs
@@ -157,7 +157,7 @@ disqusShortname = ""
 #    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
 #    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
 #    buttonText = "Get Started"
-#    url = "blogs"
+#    url = "projects"
 
 
   # Contact section
