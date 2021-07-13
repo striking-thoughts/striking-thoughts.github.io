@@ -55,5 +55,27 @@ We then got together to create a VR experience that allowed us to shoot firework
 After shooting fireworks for a while, we just sat by the camp fire and talked for a while.</description>
     </item>
     
+    <item>
+      <title>Giant Octopus</title>
+      <link>https://www.strikingthoughts.io/blogs/giant-octopus/</link>
+      <pubDate>Mon, 17 Jul 2017 01:01:01 -0100</pubDate>
+      
+      <guid>https://www.strikingthoughts.io/blogs/giant-octopus/</guid>
+      <description>We wanted to build a multiplayer and cross-platform game leveraging as many different device types as we could get functioning. We networked together a Vive, Hololens (v1), and Android AR.
+We ended up with a game that could be defined as:
+ Multiplayer Cross-Platform Asymmetric Gameplay  Award https://devpost.com/software/astro-city-defenders</description>
+    </item>
+    
+    <item>
+      <title>MissileMania</title>
+      <link>https://www.strikingthoughts.io/blogs/missile-mania/</link>
+      <pubDate>Sun, 23 Apr 2017 01:01:01 -0100</pubDate>
+      
+      <guid>https://www.strikingthoughts.io/blogs/missile-mania/</guid>
+      <description>This was my first experience with VR.
+I joined the Seattle VR Hackathon without knowing anyone and I met some people whom I still keep in touch with.
+Since I didn&amp;rsquo;t know any VR development, I falled back to my Unity experience and did all my development without the need of a VR headset and when my work was done, I shadowed someone else who integrated it into the VR environment.</description>
+    </item>
+    
   </channel>
 </rss>
