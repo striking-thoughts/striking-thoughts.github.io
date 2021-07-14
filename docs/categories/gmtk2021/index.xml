@@ -21,11 +21,36 @@ Release https://github.com/tiagosomda/space-monks-vs-zombies
     </item>
     
     <item>
+      <title>Space Monks</title>
+      <link>https://www.strikingthoughts.io/projects/space-monks/</link>
+      <pubDate>Sun, 13 Jun 2021 01:01:01 -0100</pubDate>
+      
+      <guid>https://www.strikingthoughts.io/projects/space-monks/</guid>
+      <description>Original Idea: &amp;ldquo;A RPG system where the health of all players are joined together&amp;rdquo;
+This was a game created for the Game Makers Tool Kit Jam 2021.
+https://www.gmtkgamejam.com/ jammed together by Tiago and Rob
+Release https://github.com/tiagosomda/space-monks-vs-zombies
+ note: we never got to the zombies part.  </description>
+    </item>
+    
+    <item>
       <title>Perspective Wand</title>
       <link>https://www.strikingthoughts.io/blogs/perspective-wand/</link>
       <pubDate>Sun, 28 Feb 2021 01:01:01 -0100</pubDate>
       
       <guid>https://www.strikingthoughts.io/blogs/perspective-wand/</guid>
+      <description>This experience is inspired on the game &amp;ldquo;Superluminal&amp;rdquo; (link to steam). The goal was to see how it would feel to play with this perspective mechanic in VR.
+it is pretty amazing!
+Check out more info about my development process here:
+ https://notes.tiago.dev/post/projects/perspective-wand/  </description>
+    </item>
+    
+    <item>
+      <title>Perspective Wand</title>
+      <link>https://www.strikingthoughts.io/projects/perspective-wand/</link>
+      <pubDate>Sun, 28 Feb 2021 01:01:01 -0100</pubDate>
+      
+      <guid>https://www.strikingthoughts.io/projects/perspective-wand/</guid>
       <description>This experience is inspired on the game &amp;ldquo;Superluminal&amp;rdquo; (link to steam). The goal was to see how it would feel to play with this perspective mechanic in VR.
 it is pretty amazing!
 Check out more info about my development process here:
