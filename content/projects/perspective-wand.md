@@ -1,6 +1,6 @@
 ---
 title: "Perspective Wand"
-description: ""
+description: "One of the mechanics of Superluminal in VR. It is a delight to play with this perspective game mechanic in VR."
 slug: "perspective-wand"
 image: perspective-wand.png
 keywords: ""
