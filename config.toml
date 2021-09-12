@@ -202,30 +202,30 @@ disqusShortname = ""
     copyright = "Striking Thoughts"
 
     # Uses font awesome icons
-    [[params.footer.social]]
-      icon = "fa-twitter"
-      url= "https://www.twitter.com"
-      label = "Twitter"
-
-    [[params.footer.social]]
-      icon = "fa-facebook"
-      url= "https://www.facebook.com"
-      label = "Facebook"
-
-    [[params.footer.social]]
-      icon = "fa-instagram"
-      url= "https://www.instagram.com"
-      label = "Instagram"
-    
-    [[params.footer.social]]
-      icon = "fa-github"
-      url= "https://www.github.com"
-      label = "GitHub"
-
-    [[params.footer.social]]
-      icon = "fa-linkedin"
-      url= "https://www.linkedin.com"
-      label = "LinkedIn"
+#    [[params.footer.social]]
+#      icon = "fa-twitter"
+#      url= "https://www.twitter.com"
+#      label = "Twitter"
+#
+#    [[params.footer.social]]
+#      icon = "fa-facebook"
+#      url= "https://www.facebook.com"
+#      label = "Facebook"
+#
+#    [[params.footer.social]]
+#      icon = "fa-instagram"
+#      url= "https://www.instagram.com"
+#      label = "Instagram"
+#    
+#    [[params.footer.social]]
+#      icon = "fa-github"
+#      url= "https://www.github.com"
+#      label = "GitHub"
+#
+#    [[params.footer.social]]
+#      icon = "fa-linkedin"
+#      url= "https://www.linkedin.com"
+#      label = "LinkedIn"
 
     [[params.footer.quicklinks]]
       text = "Design: "
