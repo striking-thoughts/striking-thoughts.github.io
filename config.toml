@@ -91,11 +91,19 @@ disqusShortname = ""
   [params.tiles]
     enable = true
     # Display your showcases here.
-    
+
+    [[params.tiles.showcase]]
+      title = "Rocket Jump"
+      subtitle = "an online capture the flag shooter where you rocket jump around floating islands to eliminate your opponents and steal the other team's relic. The twist is that you are are not tied to one team."
+      tags = ["UE", "C++", "Multiplayer"]
+      state = ["Prototype:Completed"]
+      image = "showcase/rocket-jump.png"
+      url = "projects/rocket-jump"
+
     [[params.tiles.showcase]]
       title = "Camp Fire Works"
       subtitle = "This is a game that a group of friends created to be able to shoot fireworks together while respecting the social distancing guidelines and rules due to COVID19."
-      tags = ["VR", "Multiplayer"]
+      tags = ["VR", "Unity", "C#", "Multiplayer"]
       state = ["Game:Released"]
       image = "showcase/camp-fireworks.png"
       url = "projects/camp-fireworks"
@@ -103,7 +111,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Ionic Defender"
       subtitle = "a surprisingly addictive gameplay!"
-      tags = ["Arcade", "HomeTeam GameDev"]
+      tags = ["Arcade", "HomeTeam GameDev", "Unity", "C#"]
       state = ["Game:Released"]
       image = "showcase/ionic-defender.png"
       url = "projects/ionic-defender"
@@ -111,7 +119,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Space Monks"
       subtitle = "A RPG system where the health of all players are joined together."
-      tags = ["Hackathon", "GMTK2021", "Multiplayer"]
+      tags = ["Hackathon", "GMTK2021", "Multiplayer", "Unity", "C#"]
       state = ["Prototype:Completed"]
       image = "showcase/space-monks.png"
       url = "projects/space-monks"
@@ -119,7 +127,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Perspective Wand"
       subtitle = "One of the mechanics of Superluminal in VR. It is a delight to play with this perspective game mechanic in VR."
-      tags = ["Project", "VR", "WebGL"]
+      tags = ["Project", "VR", "WebGL", "Unity", "C#"]
       state = ["Prototype:Completed"]
       image = "showcase/perspective-wand.png"
       url = "projects/perspective-wand"
@@ -127,7 +135,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Astro City (Giant Octopus)"
       subtitle = "Play as a giant defense kraken in VR, or as an AR assistant on handhelds and Hololens"
-      tags = ["Hackathon", "VR", "Multiplayer", "Cross-Platform", "Asymmetric Gameplay"]
+      tags = ["Hackathon", "VR", "Multiplayer", "Cross-Platform", "Asymmetric Gameplay", "Unity", "C#"]
       state = ["Hackathon:Winner"]
       image = "showcase/giant-octopus.png"
       url = "projects/giant-octopus"
@@ -135,7 +143,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Missile Mania"
       subtitle = "Stranded in a moon with only a flamming baseball bat and a shield to defend yourself from alien missiles!"
-      tags = ["Hackathon", "VR", "Vive Tracker"]
+      tags = ["Hackathon", "VR", "Vive Tracker", "Unity", "C#"]
       state = ["Hackathon:Winner"]
       image = "showcase/missile-mania.png"
       url = "projects/missile-mania"
