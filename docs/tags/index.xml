@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Striking Thoughts</title>
+    <link>https://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Striking Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>tiago@somda.net (Striking Thoughts)</managingEditor>
+    <webMaster>tiago@somda.net (Striking Thoughts)</webMaster>
+    <copyright>© 2024 Striking Thoughts</copyright>
+    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://localhost:1313/tags/c&#43;&#43;/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/tags/c&#43;&#43;/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>UE</title>
+      <link>https://localhost:1313/tags/ue/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/tags/ue/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Arcade</title>
+      <link>https://localhost:1313/tags/arcade/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/tags/arcade/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>C#</title>
+      <link>https://localhost:1313/tags/c#/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/tags/c#/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HomeTeam GameDev</title>
+      <link>https://localhost:1313/tags/hometeam-gamedev/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/tags/hometeam-gamedev/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Unity</title>
+      <link>https://localhost:1313/tags/unity/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/tags/unity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Net-Multiplayer</title>
+      <link>https://localhost:1313/tags/net-multiplayer/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/tags/net-multiplayer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>VR</title>
+      <link>https://localhost:1313/tags/vr/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/tags/vr/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>WebGL</title>
+      <link>https://localhost:1313/tags/webgl/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/tags/webgl/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GameJam</title>
+      <link>https://localhost:1313/tags/gamejam/</link>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/tags/gamejam/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTC Puck</title>
+      <link>https://localhost:1313/tags/htc-puck/</link>
+      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/tags/htc-puck/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTC Vive</title>
+      <link>https://localhost:1313/tags/htc-vive/</link>
+      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/tags/htc-vive/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

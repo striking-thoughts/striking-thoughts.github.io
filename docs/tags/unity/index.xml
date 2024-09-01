@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unity on Striking Thoughts</title>
+    <link>https://localhost:1313/tags/unity/</link>
+    <description>Recent content in Unity on Striking Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>tiago@somda.net (Striking Thoughts)</managingEditor>
+    <webMaster>tiago@somda.net (Striking Thoughts)</webMaster>
+    <copyright>© 2024 Striking Thoughts</copyright>
+    <lastBuildDate>Mon, 28 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ionic Defender</title>
+      <link>https://localhost:1313/projects/ionic-defender/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/projects/ionic-defender/</guid>
+      <description>Roast space rocks and defend the city from Bacterion!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/ionic-defender/featured.png" />
+    </item>
+    
+    <item>
+      <title>Space Monks</title>
+      <link>https://localhost:1313/projects/space-monks/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/projects/space-monks/</guid>
+      <description>A combat system where the health of all players are joined together</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/space-monks/featured.png" />
+    </item>
+    
+    <item>
+      <title>Perspective Wand</title>
+      <link>https://localhost:1313/projects/perspective-wand/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/projects/perspective-wand/</guid>
+      <description>One of the mechanics of Superluminal reimagined in VR. It is a mind-bending to experience this in VR.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/perspective-wand/featured.png" />
+    </item>
+    
+    <item>
+      <title>Camp Fireworks</title>
+      <link>https://localhost:1313/projects/camp-fireworks/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/projects/camp-fireworks/</guid>
+      <description>An environment where friends can shoot fireworks safely. (social distancing, no harm from fireworks, but do watch out for your furniture)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/camp-fireworks/featured.png" />
+    </item>
+    
+    <item>
+      <title>Giant Octopus</title>
+      <link>https://localhost:1313/projects/giant-octopus/</link>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/projects/giant-octopus/</guid>
+      <description>Play as a giant defense kraken in VR, or as an AR assistant on handhelds and Hololens</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/giant-octopus/featured.png" />
+    </item>
+    
+    <item>
+      <title>Missile Mania</title>
+      <link>https://localhost:1313/projects/missile-mania/</link>
+      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/projects/missile-mania/</guid>
+      <description>Stranded in a moon with only a flamming baseball bat and a shield to defend yourself from alien missiles!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/missile-mania/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
