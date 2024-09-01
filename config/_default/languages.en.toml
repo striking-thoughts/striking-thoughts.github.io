@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Striking Thoughts"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2006 January 2"
+  logo = "img/logo-a.png"
+  description = "tiago's creative outlet"
+
+[params.author]
+  name = "Striking Thoughts"
+  email = "tiago@somda.net"
+  image = "img/logo-a.png"
+  headline = "a collection of released experiments, prototypes, and games by <a href='https://www.tiago.dev'>tiago.dev</a>"
+  bio = "software developer"
+#  links = [
+#    { x-twitter = "https://twitter.com/burufugu" },
+#    { github = "https://github.com/nunocoracao/blowfish" },
+#  ]

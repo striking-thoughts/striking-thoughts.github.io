@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GameJam on Striking Thoughts</title>
+    <link>https://localhost:1313/tags/gamejam/</link>
+    <description>Recent content in GameJam on Striking Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>tiago@somda.net (Striking Thoughts)</managingEditor>
+    <webMaster>tiago@somda.net (Striking Thoughts)</webMaster>
+    <copyright>© 2024 Striking Thoughts</copyright>
+    <lastBuildDate>Mon, 17 Jul 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/gamejam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Giant Octopus</title>
+      <link>https://localhost:1313/projects/giant-octopus/</link>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/projects/giant-octopus/</guid>
+      <description>Play as a giant defense kraken in VR, or as an AR assistant on handhelds and Hololens</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/giant-octopus/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

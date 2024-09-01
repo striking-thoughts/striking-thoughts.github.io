@@ -1,64 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://www.strikingthoughts.io/categories/c&#43;&#43;/</loc>
-    <lastmod>2024-05-01T01:01:01-01:00</lastmod>
-  </url><url>
-    <loc>https://www.strikingthoughts.io/categories/</loc>
-    <lastmod>2024-05-01T01:01:01-01:00</lastmod>
-  </url><url>
-    <loc>https://www.strikingthoughts.io/categories/multiplayer/</loc>
-    <lastmod>2024-05-01T01:01:01-01:00</lastmod>
-  </url><url>
-    <loc>https://www.strikingthoughts.io/projects/blaster/</loc>
-    <lastmod>2024-05-01T01:01:01-01:00</lastmod>
-  </url><url>
-    <loc>https://www.strikingthoughts.io/</loc>
-    <lastmod>2024-05-01T01:01:01-01:00</lastmod>
-  </url><url>
-    <loc>https://www.strikingthoughts.io/categories/ue/</loc>
-    <lastmod>2024-05-01T01:01:01-01:00</lastmod>
-  </url><url>
-    <loc>https://www.strikingthoughts.io/categories/arcade/</loc>
-    <lastmod>2021-06-28T01:01:01-01:00</lastmod>
-  </url><url>
-    <loc>https://www.strikingthoughts.io/categories/hometeam-gamedev/</loc>
-    <lastmod>2021-06-28T01:01:01-01:00</lastmod>
-  </url><url>
-    <loc>https://www.strikingthoughts.io/projects/ionic-defender/</loc>
-    <lastmod>2021-06-28T01:01:01-01:00</lastmod>
-  </url><url>
-    <loc>https://www.strikingthoughts.io/categories/gmtk/</loc>
-    <lastmod>2021-06-13T01:01:01-01:00</lastmod>
-  </url><url>
-    <loc>https://www.strikingthoughts.io/categories/gmtk2021/</loc>
-    <lastmod>2021-06-13T01:01:01-01:00</lastmod>
-  </url><url>
-    <loc>https://www.strikingthoughts.io/categories/hackathon/</loc>
-    <lastmod>2021-06-13T01:01:01-01:00</lastmod>
-  </url><url>
-    <loc>https://www.strikingthoughts.io/projects/space-monks/</loc>
-    <lastmod>2021-06-13T01:01:01-01:00</lastmod>
-  </url><url>
-    <loc>https://www.strikingthoughts.io/projects/perspective-wand/</loc>
-    <lastmod>2021-02-28T01:01:01-01:00</lastmod>
-  </url><url>
-    <loc>https://www.strikingthoughts.io/projects/camp-fireworks/</loc>
-    <lastmod>2020-06-06T01:01:01-01:00</lastmod>
-  </url><url>
-    <loc>https://www.strikingthoughts.io/categories/vr/</loc>
-    <lastmod>2020-06-06T01:01:01-01:00</lastmod>
-  </url><url>
-    <loc>https://www.strikingthoughts.io/projects/</loc>
-    <lastmod>2017-10-31T22:27:21-05:00</lastmod>
-  </url><url>
-    <loc>https://www.strikingthoughts.io/projects/giant-octopus/</loc>
-    <lastmod>2017-07-17T01:01:01-01:00</lastmod>
-  </url><url>
-    <loc>https://www.strikingthoughts.io/projects/missile-mania/</loc>
-    <lastmod>2017-04-23T01:01:01-01:00</lastmod>
-  </url><url>
-    <loc>https://www.strikingthoughts.io/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://localhost:1313/en/sitemap.xml</loc>
+    
+      <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
