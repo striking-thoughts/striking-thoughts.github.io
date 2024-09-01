@@ -2,6 +2,10 @@
 title: "Projects"
 description: "Released games, prototypes, experiences made by Tiago."
 
+cardView: false
+cardViewScreenWidth: false
+constrainItemsWidth: false
+
 cascade:
   showDate: false
   showAuthor: false
