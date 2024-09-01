@@ -28,7 +28,7 @@ After completing it, I took away a few things we had done and added a few of my 
 - if you hit the ground with a velocity higher than a certain value, you get damaged
 - this makes so while you can use your weapon to move faster and higher, you need to think about slowling down when landing.
 
-## How can I play it?
+<!-- ## How can I play it?
 You can download it here
 - LINK TO DOWNLOAD
 
@@ -40,5 +40,5 @@ if you have any questions, feel free to contact me.
 - send me a message and I will invite you to my steam app group, which will allow you to play the game with whoever else is online
 ### options 2 : modify the steam app id to point to your own app id
 - modify the steam app id to point to an app id that you own.
-- I don't recommend using the 480 steam app id since that is meant for development testing purposes.
+- I don't recommend using the 480 steam app id since that is meant for development testing purposes. -->
 
