@@ -6,69 +6,70 @@
     <description>Recent content in Categories on Strinking Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Jun 2021 01:01:01 -0100</lastBuildDate><atom:link href="https://www.strikingthoughts.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 May 2024 01:01:01 -0100</lastBuildDate>
+    <atom:link href="https://www.strikingthoughts.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://www.strikingthoughts.io/categories/c&#43;&#43;/</link>
+      <pubDate>Wed, 01 May 2024 01:01:01 -0100</pubDate>
+      <guid>https://www.strikingthoughts.io/categories/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multiplayer</title>
+      <link>https://www.strikingthoughts.io/categories/multiplayer/</link>
+      <pubDate>Wed, 01 May 2024 01:01:01 -0100</pubDate>
+      <guid>https://www.strikingthoughts.io/categories/multiplayer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UE</title>
+      <link>https://www.strikingthoughts.io/categories/ue/</link>
+      <pubDate>Wed, 01 May 2024 01:01:01 -0100</pubDate>
+      <guid>https://www.strikingthoughts.io/categories/ue/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Arcade</title>
       <link>https://www.strikingthoughts.io/categories/arcade/</link>
       <pubDate>Mon, 28 Jun 2021 01:01:01 -0100</pubDate>
-      
       <guid>https://www.strikingthoughts.io/categories/arcade/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>HomeTeam GameDev</title>
       <link>https://www.strikingthoughts.io/categories/hometeam-gamedev/</link>
       <pubDate>Mon, 28 Jun 2021 01:01:01 -0100</pubDate>
-      
       <guid>https://www.strikingthoughts.io/categories/hometeam-gamedev/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>GMTK</title>
       <link>https://www.strikingthoughts.io/categories/gmtk/</link>
       <pubDate>Sun, 13 Jun 2021 01:01:01 -0100</pubDate>
-      
       <guid>https://www.strikingthoughts.io/categories/gmtk/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>GMTK2021</title>
       <link>https://www.strikingthoughts.io/categories/gmtk2021/</link>
       <pubDate>Sun, 13 Jun 2021 01:01:01 -0100</pubDate>
-      
       <guid>https://www.strikingthoughts.io/categories/gmtk2021/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hackathon</title>
       <link>https://www.strikingthoughts.io/categories/hackathon/</link>
       <pubDate>Sun, 13 Jun 2021 01:01:01 -0100</pubDate>
-      
       <guid>https://www.strikingthoughts.io/categories/hackathon/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Multiplayer</title>
-      <link>https://www.strikingthoughts.io/categories/multiplayer/</link>
-      <pubDate>Sun, 13 Jun 2021 01:01:01 -0100</pubDate>
-      
-      <guid>https://www.strikingthoughts.io/categories/multiplayer/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>VR</title>
       <link>https://www.strikingthoughts.io/categories/vr/</link>
       <pubDate>Sat, 06 Jun 2020 01:01:01 -0100</pubDate>
-      
       <guid>https://www.strikingthoughts.io/categories/vr/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

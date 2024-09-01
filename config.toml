@@ -94,7 +94,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "Rocket Jump"
-      subtitle = "an online capture the flag shooter where you rocket jump around floating islands to eliminate your opponents and steal the other team's relic. The twist is that you are are not tied to one team."
+      subtitle = "an online capture the flag shooter where you rocket jump around floating islands to eliminate your opponents and steal the other team's relic."
       tags = ["UE", "C++", "Multiplayer"]
       state = ["Prototype:Completed"]
       image = "showcase/rocket-jump.png"

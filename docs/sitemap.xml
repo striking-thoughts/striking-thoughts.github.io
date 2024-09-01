@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.strikingthoughts.io/categories/arcade/</loc>
-    <lastmod>2021-06-28T01:01:01-01:00</lastmod>
+    <loc>https://www.strikingthoughts.io/categories/c&#43;&#43;/</loc>
+    <lastmod>2024-05-01T01:01:01-01:00</lastmod>
   </url><url>
     <loc>https://www.strikingthoughts.io/categories/</loc>
+    <lastmod>2024-05-01T01:01:01-01:00</lastmod>
+  </url><url>
+    <loc>https://www.strikingthoughts.io/categories/multiplayer/</loc>
+    <lastmod>2024-05-01T01:01:01-01:00</lastmod>
+  </url><url>
+    <loc>https://www.strikingthoughts.io/projects/blaster/</loc>
+    <lastmod>2024-05-01T01:01:01-01:00</lastmod>
+  </url><url>
+    <loc>https://www.strikingthoughts.io/</loc>
+    <lastmod>2024-05-01T01:01:01-01:00</lastmod>
+  </url><url>
+    <loc>https://www.strikingthoughts.io/categories/ue/</loc>
+    <lastmod>2024-05-01T01:01:01-01:00</lastmod>
+  </url><url>
+    <loc>https://www.strikingthoughts.io/categories/arcade/</loc>
     <lastmod>2021-06-28T01:01:01-01:00</lastmod>
   </url><url>
     <loc>https://www.strikingthoughts.io/categories/hometeam-gamedev/</loc>
     <lastmod>2021-06-28T01:01:01-01:00</lastmod>
   </url><url>
     <loc>https://www.strikingthoughts.io/projects/ionic-defender/</loc>
-    <lastmod>2021-06-28T01:01:01-01:00</lastmod>
-  </url><url>
-    <loc>https://www.strikingthoughts.io/</loc>
     <lastmod>2021-06-28T01:01:01-01:00</lastmod>
   </url><url>
     <loc>https://www.strikingthoughts.io/categories/gmtk/</loc>
@@ -24,9 +36,6 @@
     <lastmod>2021-06-13T01:01:01-01:00</lastmod>
   </url><url>
     <loc>https://www.strikingthoughts.io/categories/hackathon/</loc>
-    <lastmod>2021-06-13T01:01:01-01:00</lastmod>
-  </url><url>
-    <loc>https://www.strikingthoughts.io/categories/multiplayer/</loc>
     <lastmod>2021-06-13T01:01:01-01:00</lastmod>
   </url><url>
     <loc>https://www.strikingthoughts.io/projects/space-monks/</loc>
