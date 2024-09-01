@@ -1,0 +1,9 @@
+{
+    "name": "Tiago Sommer Damasceno",
+    "image" : "img/tiagosomda.jpg",
+    "bio": "Software Developer",
+    "social": [
+        { "linkedin": "https://www.linkedin.com/in/tiagosomda/" },
+        { "github": "https://github.com/tiagosomda" }
+    ]
+}
