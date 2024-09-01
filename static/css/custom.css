@@ -41,3 +41,33 @@
 #banner::after {
     opacity: 0;
 }
+
+
+
+/* 
+this making it less colorful
+
+.tiles article:nth-child(6n - 5):before {
+    background-color: #000000;
+}
+
+.tiles article:nth-child(6n - 4):before {
+    background-color: #000000;
+}
+
+.tiles article:nth-child(6n - 3):before {
+    background-color: #000000;
+}
+
+.tiles article:nth-child(6n - 2):before {
+    background-color: #000000;
+}
+
+.tiles article:nth-child(6n - 1):before {
+    background-color: #000000;
+}
+
+.tiles article:nth-child(6n):before {
+    background-color: #000000;
+}
+ */
