@@ -1,11 +1,10 @@
 ---
-date: 2024-05-01
+date: 2024-04-01
 title: "Rocket Jump"
 slug: "rocket-jump"
 summary: "This is a online multiplayer shooter game running on steam made as part of a programming course taken to get more familiar the Unreal Engine."
 tags: ["UE", "C++"]
 draft: false
-showTableOfContents: false
 ---
 
 {{< carousel images="gallery/*" interval="2500" >}}
