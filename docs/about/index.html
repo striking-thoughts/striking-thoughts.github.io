@@ -28,8 +28,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.aae4ab0954fc7f7114dd14fabe5a76a6cf645fd2fabe5cef37d61d1fd5d62e9e65e2793e72c6cc5d3da9792419995b3533cbbdc333bc3897f31f77d72a4a27f7.css"
-    integrity="sha512-quSrCVT8f3EU3RT6vlp2ps9kX9L6vlzvN9YdH9XWLp5l4nk&#43;csbMXT2peSQZmVs1M8u9wzO8OJfzH3fXKkon9w==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.6d350d7adfd91f3bb1555e72466a10f5e11e81a7cac851e316803521c86f6faee32b36bf73ed4a7d4bb60b9a45849535ca2b809e095183af710699e6a7c6d39a.css"
+    integrity="sha512-bTUNet/ZHzuxVV5yRmoQ9eEegafKyFHjFoA1Ichvb67jKza/c&#43;1KfUu2C5pFhJU1yiuAnglRg69xBpnmp8bTmg==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -130,7 +130,9 @@
   
   
   <div class="min-h-[148px]"></div>
-<div class="fixed inset-x-0 pl-[24px] pr-[24px] bg-neutral dark:bg-neutral-800" style="z-index:100">
+<div class="fixed inset-x-0 min-h-[130px] opacity-65 pl-[24px] pr-[24px] bg-gradient-to-b from-neutral from-60% dark:from-neutral-800 to-transparent mix-blend-normal" style="z-index:80"></div>
+<div class="fixed inset-x-0 pl-[24px] pr-[24px]" style="z-index:100">
+  <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
   <div class="relative max-w-[64rem] ml-auto mr-auto">
     <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
@@ -142,7 +144,7 @@
             <span class="sr-only">Striking Thoughts</span>
 
             
-            <img src="/img/logo-a.png" width="512" height="512"
+            <img src="/img/logo-a.png" width="896" height="512"
                 class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="Striking Thoughts" />
             
 
@@ -371,6 +373,13 @@
 
   </div>
 </div>
+<script>
+  window.addEventListener('scroll', function (e) {
+    var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    var background_blur = document.getElementById('menu-blur');
+    background_blur.style.opacity = (scroll / 300);
+  });
+</script>
 
   
   <div class="relative flex flex-col grow">
@@ -553,20 +562,6 @@ Hence, when I was looking for a name for this pllace, Striking Thoughts came to 
     </main><footer id="site-footer" class="py-10 print:hidden">
   
   
-    
-    <nav class="flex flex-row pb-4 text-base font-medium text-neutral-500 dark:text-neutral-400">
-      <ul class="flex flex-col list-none sm:flex-row">
-        
-        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
-          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center" href=""
-            title="">
-            
-            tiago.dev
-          </a>
-        </li>
-        
-      </ul>
-    </nav>
     
   
   <div class="flex items-center justify-between">

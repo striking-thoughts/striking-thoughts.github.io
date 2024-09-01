@@ -31,8 +31,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.aae4ab0954fc7f7114dd14fabe5a76a6cf645fd2fabe5cef37d61d1fd5d62e9e65e2793e72c6cc5d3da9792419995b3533cbbdc333bc3897f31f77d72a4a27f7.css"
-    integrity="sha512-quSrCVT8f3EU3RT6vlp2ps9kX9L6vlzvN9YdH9XWLp5l4nk&#43;csbMXT2peSQZmVs1M8u9wzO8OJfzH3fXKkon9w==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.6d350d7adfd91f3bb1555e72466a10f5e11e81a7cac851e316803521c86f6faee32b36bf73ed4a7d4bb60b9a45849535ca2b809e095183af710699e6a7c6d39a.css"
+    integrity="sha512-bTUNet/ZHzuxVV5yRmoQ9eEegafKyFHjFoA1Ichvb67jKza/c&#43;1KfUu2C5pFhJU1yiuAnglRg69xBpnmp8bTmg==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -154,7 +154,9 @@
   
   
   <div class="min-h-[148px]"></div>
-<div class="fixed inset-x-0 pl-[24px] pr-[24px] bg-neutral dark:bg-neutral-800" style="z-index:100">
+<div class="fixed inset-x-0 min-h-[130px] opacity-65 pl-[24px] pr-[24px] bg-gradient-to-b from-neutral from-60% dark:from-neutral-800 to-transparent mix-blend-normal" style="z-index:80"></div>
+<div class="fixed inset-x-0 pl-[24px] pr-[24px]" style="z-index:100">
+  <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
   <div class="relative max-w-[64rem] ml-auto mr-auto">
     <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
@@ -166,7 +168,7 @@
             <span class="sr-only">Striking Thoughts</span>
 
             
-            <img src="/img/logo-a.png" width="512" height="512"
+            <img src="/img/logo-a.png" width="896" height="512"
                 class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="Striking Thoughts" />
             
 
@@ -395,6 +397,13 @@
 
   </div>
 </div>
+<script>
+  window.addEventListener('scroll', function (e) {
+    var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    var background_blur = document.getElementById('menu-blur');
+    background_blur.style.opacity = (scroll / 300);
+  });
+</script>
 
   
   <div class="relative flex flex-col grow">
@@ -437,7 +446,7 @@
                                 
                             
                             <img class="mb-2 rounded-full h-36 w-36" width="144" height="144"
-                                alt="Striking Thoughts" src="/img/logo-a_hu69e38a093e1d5c32adaf3f003ec3ec26_608227_288x288_fill_q96_box_center_3.png" />
+                                alt="Striking Thoughts" src="/img/logo-a_hu675283efe2a098e4850e254542ad5f98_1086117_288x288_fill_q96_box_center_3.png" />
                         
                     
                     <h1 class="mb-2 text-4xl font-extrabold text-neutral-800 dark:text-neutral-200">
@@ -445,7 +454,7 @@
                     </h1>
                     
                     <h2 class="mt-0 mb-0 text-xl text-neutral-800 dark:text-neutral-300">
-                        tiago&rsquo;s creative outlet
+                        a collection of released experiments, prototypes, and games by <a href='https://www.tiago.dev'>tiago.dev</a>
                     </h2>
                     
                     <div class="mt-3 mb-10 text-2xl">
@@ -493,6 +502,8 @@ npx blowfish-tools
 
 
 
+
+<h2 class="mt-8 text-2xl font-extrabold mb-10">Recent</h2>
 
 
   
@@ -902,593 +913,21 @@ npx blowfish-tools
   </a>
 
   
-  
-
-  <a href="/projects/perspective-wand/" class="min-w-full">
-    
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
-        
-        <div class="w-full thumbnail_card nozoom" style="background-image:url(/projects/perspective-wand/featured_hu158d7b5f2a739c715688d59d29f10019_370357_600x0_resize_box_3.png);"></div>
-        
-      
-
-      <div class="px-6 py-4">
-
-        
-        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
-          href="/projects/perspective-wand/">Perspective Wand</div>
-        
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-
-  
-  
-</div>
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-</div>
-
-
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/unity/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Unity
-  </span>
-</span>
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/c#/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    C#
-  </span>
-</span>
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/vr/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    VR
-  </span>
-</span>
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/webgl/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    WebGL
-  </span>
-</span>
-  </span>
-  
-  
-  
-  
-</div>
-
-
-
-
-        </div>
-
-        
-        <div class="py-1 prose dark:prose-invert">
-          One of the mechanics of Superluminal reimagined in VR. It is a mind-bending to experience this in VR.
-        </div>
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
-
-      </div>
-    </div>
-  </a>
-
-  
-  
-
-  <a href="/projects/camp-fireworks/" class="min-w-full">
-    
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
-        
-        <div class="w-full thumbnail_card nozoom" style="background-image:url(/projects/camp-fireworks/featured_hu3c46f5c1e413141eb11341e994f3bc7a_435861_600x0_resize_box_3.png);"></div>
-        
-      
-
-      <div class="px-6 py-4">
-
-        
-        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
-          href="/projects/camp-fireworks/">Camp Fireworks</div>
-        
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-
-  
-  
-</div>
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-</div>
-
-
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/unity/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Unity
-  </span>
-</span>
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/c#/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    C#
-  </span>
-</span>
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/vr/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    VR
-  </span>
-</span>
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/net-multiplayer/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Net-Multiplayer
-  </span>
-</span>
-  </span>
-  
-  
-  
-  
-</div>
-
-
-
-
-        </div>
-
-        
-        <div class="py-1 prose dark:prose-invert">
-          An environment where friends can shoot fireworks safely. (social distancing, no harm from fireworks, but do watch out for your furniture)
-        </div>
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
-
-      </div>
-    </div>
-  </a>
-
-  
-  
-
-  <a href="/projects/giant-octopus/" class="min-w-full">
-    
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
-        
-        <div class="w-full thumbnail_card nozoom" style="background-image:url(/projects/giant-octopus/featured_hu42226ee84161aeb5be3935eda61a7bf8_1506099_600x0_resize_box_3.png);"></div>
-        
-      
-
-      <div class="px-6 py-4">
-
-        
-        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
-          href="/projects/giant-octopus/">Giant Octopus</div>
-        
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-
-  
-  
-</div>
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-</div>
-
-
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/gamejam/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    GameJam
-  </span>
-</span>
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/unity/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Unity
-  </span>
-</span>
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/c#/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    C#
-  </span>
-</span>
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/vr/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    VR
-  </span>
-</span>
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/net-multiplayer/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Net-Multiplayer
-  </span>
-</span>
-  </span>
-  
-  
-  
-  
-</div>
-
-
-
-
-        </div>
-
-        
-        <div class="py-1 prose dark:prose-invert">
-          Play as a giant defense kraken in VR, or as an AR assistant on handhelds and Hololens
-        </div>
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
-
-      </div>
-    </div>
-  </a>
-
-  
-  
-
-  <a href="/projects/missile-mania/" class="min-w-full">
-    
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
-        
-        <div class="w-full thumbnail_card nozoom" style="background-image:url(/projects/missile-mania/featured_hubf2a6f722c3629704f2c2e37d49f1c2d_898139_600x0_resize_box_3.png);"></div>
-        
-      
-
-      <div class="px-6 py-4">
-
-        
-        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
-          href="/projects/missile-mania/">Missile Mania</div>
-        
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-
-  
-  
-</div>
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-</div>
-
-
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/unity/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Unity
-  </span>
-</span>
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/c#/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    C#
-  </span>
-</span>
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/vr/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    VR
-  </span>
-</span>
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/htc-vive/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    HTC Vive
-  </span>
-</span>
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/htc-puck/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    HTC Puck
-  </span>
-</span>
-  </span>
-  
-  
-  
-  
-</div>
-
-
-
-
-        </div>
-
-        
-        <div class="py-1 prose dark:prose-invert">
-          Stranded in a moon with only a flamming baseball bat and a shield to defend yourself from alien missiles!
-        </div>
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
-
-      </div>
-    </div>
-  </a>
-
-  
 </section>
 
 
+
+
+
+
+<div class="mt-10 flex justify-center">
+  <a href="projects">
+    <button
+      class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded">
+      See All
+    </button>
+  </a>
+</div>
 
 
 
@@ -1510,20 +949,6 @@ npx blowfish-tools
     </main><footer id="site-footer" class="py-10 print:hidden">
   
   
-    
-    <nav class="flex flex-row pb-4 text-base font-medium text-neutral-500 dark:text-neutral-400">
-      <ul class="flex flex-col list-none sm:flex-row">
-        
-        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
-          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center" href=""
-            title="">
-            
-            tiago.dev
-          </a>
-        </li>
-        
-      </ul>
-    </nav>
     
   
   <div class="flex items-center justify-between">
