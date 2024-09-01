@@ -1,10 +1,10 @@
 ---
-title: "Welcome to Blowfish! :tada:"
-description: "This page was built using the Blowfish theme for Hugo."
+title: "Welcome to Striking THoughts! :tada:"
+description: "this is tiago's creative outlet"
 ---
 
 
-<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
+<!-- <div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
   <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
     {{< icon "triangle-exclamation" >}}
   </span>
@@ -24,6 +24,6 @@ description: "This page was built using the Blowfish theme for Hugo."
 npx blowfish-tools
 ```  
 
-{{< youtubeLite id="SgXhGb-7QbU" label="Blowfish-tools demo" >}}
+{{< youtubeLite id="SgXhGb-7QbU" label="Blowfish-tools demo" >}} -->
 
 
