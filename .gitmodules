@@ -1,6 +1,3 @@
-[submodule "themes/forty"]
-	path = themes/forty
-	url = https://github.com/tiagosomda/forty
 [submodule "themes/blowfish"]
 	path = themes/blowfish
 	url = https://github.com/nunocoracao/blowfish.git
