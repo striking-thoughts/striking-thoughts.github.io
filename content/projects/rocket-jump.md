@@ -21,6 +21,13 @@ I explore it a bit on my own and really enjoyed it. So I found a course that cou
 
 After completing it, I took away a few things we had done and added a few of my own.
 
+### Rocket Jumping
+- weapons have a push back force which allows you to jump/fly
+
+### Fall Damage
+- if you hit the ground with a velocity higher than a certain value, you get damaged
+- this makes so while you can use your weapon to move faster and higher, you need to think about slowling down when landing.
+
 ## How can I play it?
 You can download it here
 - LINK TO DOWNLOAD
