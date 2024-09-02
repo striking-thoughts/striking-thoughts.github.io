@@ -3,7 +3,7 @@ date: 2024-08-26
 showDate: true
 title: "Nano-Escape"
 slug: "nano-escape"
-summary: "A Vampire Survivors inspired game with the twist on how your life, ammo, size, speed and ammo are tied together as you try to a factory compromised by a computer virus."
+summary: "A Vampire Survivors inspired game with the twist on how your life, ammo, size, speed and the game music are tied together to scale up or down as you try to escape a factory compromised by a computer virus."
 tags: ["Godot", "GDScript", "GMTK"]
 draft: false
 showTableOfContents: false
