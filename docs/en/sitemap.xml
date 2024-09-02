@@ -3,14 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://localhost:1313/tags/c&#43;&#43;/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost:1313/projects/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <loc>https://localhost:1313/projects/camp-fireworks/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -21,19 +15,67 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://localhost:1313/projects/shader-journey/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/tags/glsl/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/tags/godot/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/projects/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/tags/shader/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://localhost:1313/tags/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/tags/c&#43;&#43;/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/tags/net-multiplayer/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/tags/steam/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://localhost:1313/tags/ue/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost:1313/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -69,12 +111,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/net-multiplayer/</loc>
-    <lastmod>2021-06-13T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://localhost:1313/projects/space-monks/</loc>
     <lastmod>2021-06-13T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -95,12 +131,6 @@
   <url>
     <loc>https://localhost:1313/tags/webgl/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost:1313/projects/camp-fireworks/</loc>
-    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>

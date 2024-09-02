@@ -11,6 +11,16 @@
     <copyright>© 2024 Striking Thoughts</copyright>
     <lastBuildDate>Mon, 28 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/unity/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Camp Fireworks</title>
+      <link>https://localhost:1313/projects/camp-fireworks/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/projects/camp-fireworks/</guid>
+      <description>An environment where friends can shoot fireworks safely (social distancing, no harm from fireworks, but do watch out for your furniture).</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/camp-fireworks/featured.png" />
+    </item>
+    
+    <item>
       <title>Ionic Defender</title>
       <link>https://localhost:1313/projects/ionic-defender/</link>
       <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
@@ -38,16 +48,6 @@
       <guid>https://localhost:1313/projects/perspective-wand/</guid>
       <description>One of the mechanics of Superluminal reimagined in VR. It is a mind-bending to experience this in VR.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/perspective-wand/featured.png" />
-    </item>
-    
-    <item>
-      <title>Camp Fireworks</title>
-      <link>https://localhost:1313/projects/camp-fireworks/</link>
-      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
-      <author>tiago@somda.net (Striking Thoughts)</author>
-      <guid>https://localhost:1313/projects/camp-fireworks/</guid>
-      <description>An environment where friends can shoot fireworks safely. (social distancing, no harm from fireworks, but do watch out for your furniture)</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/camp-fireworks/featured.png" />
     </item>
     
     <item>
