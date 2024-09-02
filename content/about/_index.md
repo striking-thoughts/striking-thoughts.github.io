@@ -30,6 +30,6 @@ I believe the same principles apply to software development and even more so to 
 ## StrikingThoughts.io
 Since I am always thinking and thinkering with different game dev ideas, Striking Thoughts felt like a fitting name.
 
-- Here at StrikingThoughts.io, you will find my [experiments, games, and prototypes](/projects) around game development.  
+- At StrikingThoughts.io, you will find my [experiments, games, and prototypes](/projects) around game development.  
 - I keep a blog at [notes.tiago.dev](https://notes.tiago.dev) where I post about more general topics, not exclusively about game development.  
 - My main website with contact information can be found at [www.tiago.dev](https://www.tiago.dev).
