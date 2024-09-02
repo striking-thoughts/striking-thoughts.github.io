@@ -25,14 +25,10 @@ One of the things I appreciated was how he drew parallels of his philosophy acro
 > Flexibility and adaptability lead to a better life by helping you overcome challenges.
 
 ### In Game Development
-I believe the same principles apply to software development and even more so to game development due to the diversity of domains it includes.  
-When solving a problem, by yourself or in a group, I find it very important to be flexible and adaptable.  
-Being open to exploring different ways to achieve something is a really good recipe to innovation.  
-Being aware that there might be another way of solving a problem can help you step back and think about the problem differently.
+I believe the same principles apply to software development and even more so to game development due to the diversity of domains it includes. When solving a problem, whether by yourself or in a group, it is very important to be flexible and adaptable. Being open to exploring different ways to achieve something is a really good recipe for innovation. Being aware that there might be another way of solving a problem can help you step back and think about the problem differently.
 
 ## StrikingThoughts.io
-I love learning and creating things. I am always thinking and thinkering with different ideas.  
-Hence, when I was looking for a name for this pllace, Striking Thoughts came to mind.
+Since I am always thinking and thinkering with different game dev ideas, Striking Thoughts felt like a fitting name.
 
 - Here at StrikingThoughts.io, you will find my [experiments, games, and prototypes](/projects) around game development.  
 - I keep a blog at [notes.tiago.dev](https://notes.tiago.dev) where I post about more general topics, not exclusively about game development.  
