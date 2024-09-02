@@ -1,5 +1,6 @@
 ---
 date:  2017-07-17
+showDate: true
 title: "Giant Octopus"
 slug: "giant-octopus"
 summary: "Play as a giant defense kraken in VR, or as an AR assistant on handhelds and Hololens"

@@ -1,5 +1,6 @@
 ---
 date:  2017-04-23
+showDate: true
 title: "Missile Mania"
 slug: "missile-mania"
 summary: "Stranded in a moon with only a flamming baseball bat and a shield to defend yourself from alien missiles!"

@@ -9,7 +9,7 @@
     <managingEditor>tiago@somda.net (Striking Thoughts)</managingEditor>
     <webMaster>tiago@somda.net (Striking Thoughts)</webMaster>
     <copyright>© 2024 Striking Thoughts</copyright>
-    <lastBuildDate>Mon, 28 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/unity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Camp Fireworks</title>
       <link>https://localhost:1313/projects/camp-fireworks/</link>
@@ -18,6 +18,16 @@
       <guid>https://localhost:1313/projects/camp-fireworks/</guid>
       <description>An environment where friends can shoot fireworks safely (social distancing, no harm from fireworks, but do watch out for your furniture).</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/camp-fireworks/featured.png" />
+    </item>
+    
+    <item>
+      <title>Save a Mole</title>
+      <link>https://localhost:1313/projects/save-a-mole/</link>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/projects/save-a-mole/</guid>
+      <description>A quick little game that I made in about a day for the GTMK 2023 themed &amp;lsquo;roles reversed&amp;rsquo;. In here, instead of wahcking a mole, you have to save it, but as a player, you can reverse your role and become a game designer and switch up the game mechanics to play whack a human if you would like.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/save-a-mole/featured.png" />
     </item>
     
     <item>

@@ -1,5 +1,6 @@
 ---
 date:  2021-06-28
+showDate: true
 title: "Ionic Defender"
 slug: "ionic-defender"
 summary: "Roast space rocks and defend the city from Bacterion!"

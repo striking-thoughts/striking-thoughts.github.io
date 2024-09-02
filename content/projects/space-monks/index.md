@@ -1,5 +1,6 @@
 ---
 date: 2021-06-13
+showDate: true
 title: "Space Monks"
 slug: "space-monks"
 summary: "A combat system where the health of all players are joined together"

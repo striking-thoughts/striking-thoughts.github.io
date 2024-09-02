@@ -20,5 +20,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/nano-escape/featured.png" />
     </item>
     
+    <item>
+      <title>Save a Mole</title>
+      <link>https://localhost:1313/projects/save-a-mole/</link>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/projects/save-a-mole/</guid>
+      <description>A quick little game that I made in about a day for the GTMK 2023 themed &amp;lsquo;roles reversed&amp;rsquo;. In here, instead of wahcking a mole, you have to save it, but as a player, you can reverse your role and become a game designer and switch up the game mechanics to play whack a human if you would like.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/save-a-mole/featured.png" />
+    </item>
+    
   </channel>
 </rss>

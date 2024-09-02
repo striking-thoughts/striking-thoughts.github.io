@@ -1,5 +1,6 @@
 ---
-date: 2024-04-01
+date: 2024-04-04
+showDate: true
 title: "Rocket Jump"
 slug: "rocket-jump"
 summary: "This is an online multiplayer shooter game running on steam made as part of a programming course taken to get more familiar the Unreal Engine."
