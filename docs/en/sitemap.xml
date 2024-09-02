@@ -21,13 +21,31 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://localhost:1313/tags/gdscript/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://localhost:1313/tags/glsl/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://localhost:1313/tags/gmtk/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://localhost:1313/tags/godot/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/projects/nano-escape/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
