@@ -43,12 +43,13 @@ smartTOCHideUnfocusedChildren = false
   #homepageImage = "/img/juliafractal.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 3
-  showRecentHeader = true
+  showRecentHeader = false
   showMoreLink = true
   showMoreLinkDest = "projects"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
+  orderByWeight = true
 
 [article]
   showDate = true

@@ -2,7 +2,8 @@
 date: 2020-06-06
 title: "Camp Fireworks"
 slug: "camp-fireworks"
-summary: "An environment where friends can shoot fireworks safely. (social distancing, no harm from fireworks, but do watch out for your furniture)"
+summary: "An environment where friends can shoot fireworks safely (social distancing, no harm from fireworks, but do watch out for your furniture)."
+weight: 1
 tags: ["Unity", "C#", "VR", "Net-Multiplayer"]
 draft: false
 showTableOfContents: false

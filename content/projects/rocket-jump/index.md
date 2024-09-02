@@ -2,8 +2,9 @@
 date: 2024-04-01
 title: "Rocket Jump"
 slug: "rocket-jump"
-summary: "This is a online multiplayer shooter game running on steam made as part of a programming course taken to get more familiar the Unreal Engine."
-tags: ["UE", "C++"]
+summary: "This is an online multiplayer shooter game running on steam made as part of a programming course taken to get more familiar the Unreal Engine."
+weight: 2
+tags: ["UE", "C++", "Net-Multiplayer", "Steam"]
 draft: false
 ---
 
