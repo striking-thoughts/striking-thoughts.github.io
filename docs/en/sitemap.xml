@@ -16,18 +16,12 @@
   </url>
   <url>
     <loc>https://localhost:1313/projects/shader-journey/</loc>
-    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-23T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://localhost:1313/tags/gdscript/</loc>
-    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost:1313/tags/glsl/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -57,12 +51,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/shader/</loc>
-    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://localhost:1313/tags/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -71,6 +59,18 @@
   <url>
     <loc>https://localhost:1313/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/tags/glsl/</loc>
+    <lastmod>2024-08-23T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/tags/shader/</loc>
+    <lastmod>2024-08-23T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>

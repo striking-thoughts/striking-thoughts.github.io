@@ -21,16 +21,6 @@
     </item>
     
     <item>
-      <title>GLSL</title>
-      <link>https://localhost:1313/tags/glsl/</link>
-      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-      <author>tiago@somda.net (Striking Thoughts)</author>
-      <guid>https://localhost:1313/tags/glsl/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>GMTK</title>
       <link>https://localhost:1313/tags/gmtk/</link>
       <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
@@ -51,9 +41,19 @@
     </item>
     
     <item>
+      <title>GLSL</title>
+      <link>https://localhost:1313/tags/glsl/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/tags/glsl/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Shader</title>
       <link>https://localhost:1313/tags/shader/</link>
-      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
       <author>tiago@somda.net (Striking Thoughts)</author>
       <guid>https://localhost:1313/tags/shader/</guid>
       <description></description>
