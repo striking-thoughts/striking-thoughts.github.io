@@ -4622,6 +4622,22 @@ pre {
 
 /* Carousel Specific Styles */
 
+.ratio-auto { aspect-ratio: 1 / 1;}
+
+.ratio-auto img {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 100%;
+  width: auto;
+}
+
+.ratio-16-9 {
+  padding-top: 56.25%;
+}
+
 .ratio-16-9 {
   padding-top: 56.25%;
 }
