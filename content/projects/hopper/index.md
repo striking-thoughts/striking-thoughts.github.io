@@ -16,7 +16,7 @@ This is a very simple game made with love for my nephew.
 - My wife got super excited about joining in, so she drew all the art in the game!  
 
 
-{{< carousel images="gallery/*" interval="2500" >}}
+{{< carousel images="gallery/*" aspectRatio="auto" >}}
 
-The iOS app is released and you can download it here: [https://apps.apple.com/us/app/hopper-the-bunny/id6541762616](https://apps.apple.com/us/app/hopper-the-bunny/id6541762616)  
-The Android app is playtestable at :
+> The iOS app is released and you can download it here: [https://apps.apple.com/us/app/hopper-the-bunny/id6541762616](https://apps.apple.com/us/app/hopper-the-bunny/id6541762616)   
+
