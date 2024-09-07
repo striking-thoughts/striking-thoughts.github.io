@@ -3,7 +3,7 @@ date: 2024-08-10
 showDate: true
 title: "Hopper"
 slug: "hopper"
-summary: "Made with love for my nephew, who is starting to love games. Used this opportunity to learn more about hookinh up godot to the Apple App Store and the Google Play Store."
+summary: "Made with love for my nephew, who is starting to love games. Used this opportunity to learn more about hooking up godot to the Apple App Store and the Google Play Store."
 tags: ["Godot", "GDScript", "iOS", "Android"]
 draft: false
 showTableOfContents: false

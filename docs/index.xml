@@ -46,7 +46,7 @@
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
       <author>tiago@somda.net (Striking Thoughts)</author>
       <guid>https://localhost:1313/projects/hopper/</guid>
-      <description>Made with love for my nephew, who is starting to love games. Used this opportunity to learn more about hookinh up godot to the Apple App Store and the Google Play Store.</description>
+      <description>Made with love for my nephew, who is starting to love games. Used this opportunity to learn more about hooking up godot to the Apple App Store and the Google Play Store.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/hopper/featured.png" />
     </item>
     
@@ -56,7 +56,7 @@
       <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
       <author>tiago@somda.net (Striking Thoughts)</author>
       <guid>https://localhost:1313/projects/perspective-wand/</guid>
-      <description>One of the mechanics of Superluminal reimagined in VR. It is a mind-bending to experience this in VR.</description>
+      <description>One of the mechanics of Superluminal reimagined in VR. THis game mechanic is mind-bending in VR.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/perspective-wand/featured.png" />
     </item>
     
@@ -66,7 +66,7 @@
       <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
       <author>tiago@somda.net (Striking Thoughts)</author>
       <guid>https://localhost:1313/projects/rocket-jump/</guid>
-      <description>This is an online multiplayer shooter game running on steam made as part of a programming course taken to get more familiar the Unreal Engine.</description>
+      <description>This is an online multiplayer shooter game running on steam made as part of a programming course taken to get more familiar with the Unreal Engine.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/rocket-jump/featured.png" />
     </item>
     

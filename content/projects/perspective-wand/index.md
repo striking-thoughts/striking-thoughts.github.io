@@ -3,7 +3,7 @@ date: 2021-02-28
 showDate: true
 title: "Perspective Wand"
 slug: "perspective-wand"
-summary: "One of the mechanics of Superluminal reimagined in VR. It is a mind-bending to experience this in VR."
+summary: "One of the mechanics of Superluminal reimagined in VR. THis game mechanic is mind-bending in VR."
 tags: ["Unity", "C#", "VR", "WebGL"]
 draft: false
 showTableOfContents: false
