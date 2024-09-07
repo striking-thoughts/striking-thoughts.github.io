@@ -8,6 +8,7 @@ tags: ["Godot", "GDScript", "GMTK"]
 draft: false
 showTableOfContents: false
 showDate: true
+weight: 1
 ---
 
 A Game made for the GMTK Game Jam 2024!

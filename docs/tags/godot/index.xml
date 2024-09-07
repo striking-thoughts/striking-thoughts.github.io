@@ -11,6 +11,16 @@
     <copyright>© 2024 Striking Thoughts</copyright>
     <lastBuildDate>Mon, 26 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/godot/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Nano-Escape</title>
+      <link>https://localhost:1313/projects/nano-escape/</link>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/projects/nano-escape/</guid>
+      <description>A Vampire Survivors inspired game with the twist on how your life, ammo, size, speed and the game music are tied together to scale up or down as you try to escape a factory compromised by a computer virus.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/nano-escape/featured.png" />
+    </item>
+    
+    <item>
       <title>The Shader Journey</title>
       <link>https://localhost:1313/projects/shader-journey/</link>
       <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
@@ -21,13 +31,13 @@
     </item>
     
     <item>
-      <title>Nano-Escape</title>
-      <link>https://localhost:1313/projects/nano-escape/</link>
-      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+      <title>Hopper</title>
+      <link>https://localhost:1313/projects/hopper/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
       <author>tiago@somda.net (Striking Thoughts)</author>
-      <guid>https://localhost:1313/projects/nano-escape/</guid>
-      <description>A Vampire Survivors inspired game with the twist on how your life, ammo, size, speed and the game music are tied together to scale up or down as you try to escape a factory compromised by a computer virus.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/nano-escape/featured.png" />
+      <guid>https://localhost:1313/projects/hopper/</guid>
+      <description>Made with love for my nephew, who is starting to love games. Used this opportunity to learn more about hookinh up godot to the Apple App Store and the Google Play Store.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/hopper/featured.png" />
     </item>
     
   </channel>

@@ -20,5 +20,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/nano-escape/featured.png" />
     </item>
     
+    <item>
+      <title>Hopper</title>
+      <link>https://localhost:1313/projects/hopper/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/projects/hopper/</guid>
+      <description>Made with love for my nephew, who is starting to love games. Used this opportunity to learn more about hookinh up godot to the Apple App Store and the Google Play Store.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/hopper/featured.png" />
+    </item>
+    
   </channel>
 </rss>

@@ -7,6 +7,7 @@ summary: "One of the mechanics of Superluminal reimagined in VR. It is a mind-be
 tags: ["Unity", "C#", "VR", "WebGL"]
 draft: false
 showTableOfContents: false
+weight: 4
 ---
 
 This experience is inspired on the game "Superluminal" (link to steam).

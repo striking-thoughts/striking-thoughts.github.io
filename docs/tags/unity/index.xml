@@ -21,6 +21,16 @@
     </item>
     
     <item>
+      <title>Perspective Wand</title>
+      <link>https://localhost:1313/projects/perspective-wand/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      <author>tiago@somda.net (Striking Thoughts)</author>
+      <guid>https://localhost:1313/projects/perspective-wand/</guid>
+      <description>One of the mechanics of Superluminal reimagined in VR. It is a mind-bending to experience this in VR.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/perspective-wand/featured.png" />
+    </item>
+    
+    <item>
       <title>Save a Mole</title>
       <link>https://localhost:1313/projects/save-a-mole/</link>
       <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
@@ -48,16 +58,6 @@
       <guid>https://localhost:1313/projects/space-monks/</guid>
       <description>A combat system where the health of all players are joined together</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/space-monks/featured.png" />
-    </item>
-    
-    <item>
-      <title>Perspective Wand</title>
-      <link>https://localhost:1313/projects/perspective-wand/</link>
-      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
-      <author>tiago@somda.net (Striking Thoughts)</author>
-      <guid>https://localhost:1313/projects/perspective-wand/</guid>
-      <description>One of the mechanics of Superluminal reimagined in VR. It is a mind-bending to experience this in VR.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/perspective-wand/featured.png" />
     </item>
     
     <item>

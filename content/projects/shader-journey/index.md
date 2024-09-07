@@ -4,7 +4,7 @@ showDate: true
 title: "The Shader Journey"
 slug: "shader-journey"
 summary: "Ever since working with Tech Artists, I was fascinated by their work. I have been reading books and writing shaders to further my skills in game development."
-weight: 3
+weight: 1
 tags: ["Godot", "Shader", "GLSL"]
 draft: false
 showTableOfContents: false
