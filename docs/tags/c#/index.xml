@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C# on Striking Thoughts</title>
-    <link>https://localhost:1313/tags/c#/</link>
+    <link>https://localhost:1313/tags/c%23/</link>
     <description>Recent content in C# on Striking Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>tiago@somda.net (Striking Thoughts)</managingEditor>
     <webMaster>tiago@somda.net (Striking Thoughts)</webMaster>
-    <copyright>© 2024 Striking Thoughts</copyright>
-    <lastBuildDate>Fri, 09 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/c#/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Striking Thoughts</copyright>
+    <lastBuildDate>Fri, 09 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/c%23/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Camp Fireworks</title>
       <link>https://localhost:1313/projects/camp-fireworks/</link>
