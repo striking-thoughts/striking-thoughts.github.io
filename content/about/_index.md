@@ -1,35 +1,30 @@
 ---
 title: "What is Striking Thoughts?"
-description: "about striking thoughts"
+description: "About Striking Thoughts"
 showTableOfContents: false
 showNoArticles: false
 ---
 
 {{< lead >}}
-Named after after Bruce Lee's book on wisdom for daily living, Striking Thoughts.
+I often try to embody Bruce Lee's philosophy of adaptability and flexibility in various aspects of my life.  
+Thus, I named this website—my creative outlet—after his book *Striking Thoughts*. 
 {{< /lead >}}
 
-**Striking Thoughts** is inspired by Bruce Lee's philosophy, which deeply resonates with me. I practiced Jeet Kune Do (JKD) at his original studio for a few years and I got to learn a lot from the people there.
-> Having previously practiced other martial arts, I found Bruce Lee's "No Way as Way" philosophy particularly beautiful and true.
+- See my projects: [StrikingThoughts.io/projects](/projects)  
+- Read my general blog: [notes.tiago.dev](https://notes.tiago.dev)  
+- Find my main site & contact info here: [www.tiago.dev](https://www.tiago.dev)  
 
-## No Way as Way Philosophy
+## The Philosophy
 
-Bruce Lee's philosophy teaches that there is no single way to achieve something.  
-Instead, he encourages the idea that there are many ways, and one should be flexible and adaptable.   
-One of the things I appreciated was how he drew parallels of his philosophy across many areas of life, encouraging others to question his ideas and philosophies.
+Bruce Lee's *No Way as Way* philosophy teaches that no single path is the right one —**Adaptability is key.**  
+I practiced Jeet Kune Do (JKD) at his original studio and found this mindset invaluable, not just in martial arts but in life.
 
 > **In Martial Arts**  
-> There is no one correct way to kick or punch. Adapt your style to the challenge ahead.
+> There’s no single correct way to strike. Adapt to the situation.  
+  
+> **In Life**  
+> Flexibility helps navigate challenges.  
+  
+> **In Game Development**  
+> Openness to different solutions fosters innovation.
 
-> **In Everyday Life**  
-> Flexibility and adaptability lead to a better life by helping you overcome challenges.
-
-### In Game Development
-I believe the same principles apply to software development and even more so to game development due to the diversity of domains it includes. When solving a problem, whether by yourself or in a group, it is very important to be flexible and adaptable. Being open to exploring different ways to achieve something is a really good recipe for innovation. Being aware that there might be another way of solving a problem can help you step back and think about the problem differently.
-
-## StrikingThoughts.io
-Since I am always thinking and thinkering with different game dev ideas, Striking Thoughts felt like a fitting name.
-
-- At StrikingThoughts.io, you will find my [experiments, games, and prototypes](/projects) around game development.  
-- I keep a blog at [notes.tiago.dev](https://notes.tiago.dev) where I post about more general topics, not exclusively about game development.  
-- My main website with contact information can be found at [www.tiago.dev](https://www.tiago.dev).
