@@ -6,12 +6,14 @@ showNoArticles: false
 ---
 
 {{< lead >}}
-I often try to embody Bruce Lee's philosophy of adaptability and flexibility in various aspects of my life.  
-Thus, I named this website—my creative outlet—after his book *Striking Thoughts*. 
+I often try to embody Bruce Lee's philosophy of adaptability and flexibility in various aspects of my life.
+Thus, I named this website—my creative outlet—after his book *Striking Thoughts*.
 {{< /lead >}}
 
-- See my projects: [StrikingThoughts.io/projects](/projects)  
-- Read my general blog: [notes.tiago.dev](https://notes.tiago.dev)  
+**Tiago Sommer Damasceno** is the founder of <a href="https://www.pretty.games/" target="_blank">**Pretty Games**</a>, an independent game studio. Previously, as a **Senior Gameplay Engineer at Ubisoft**, helped bring <a href="https://www.ubisoft.com/en-us/game/assassins-creed/nexus-vr" target="_blank">**Assassin's Creed Nexus VR**</a> to life and contributed to R&D projects and Rainbow Six Siege. Earlier at **Microsoft** as a **Senior Software Engineer**, contributed to <a href="https://www.windows.com" target="_blank">**Windows**</a> and <a href="https://azure.microsoft.com/" target="_blank">**Azure**</a>.
+
+- See my projects: [StrikingThoughts.io/projects](/projects)
+- Read my general blog: [notes.tiago.dev](https://notes.tiago.dev)
 - Find my main site & contact info here: [www.tiago.dev](https://www.tiago.dev)  
 
 ## The Philosophy

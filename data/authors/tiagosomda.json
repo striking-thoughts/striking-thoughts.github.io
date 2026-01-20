@@ -1,7 +1,7 @@
 {
     "name": "Tiago Sommer Damasceno",
     "image" : "img/tiagosomda.jpg",
-    "bio": "Software Developer",
+    "bio": "Founder of <a href='https://www.pretty.games/' target='_blank'><b>Pretty Games</b></a>, an independent game studio. Previously, <b>Senior Gameplay Engineer at Ubisoft</b> working on <a href='https://www.ubisoft.com/en-us/game/assassins-creed/nexus-vr' target='_blank'><b>Assassin's Creed Nexus VR</b></a>, R&D projects, and Rainbow Six Siege. Earlier at <b>Microsoft</b> as a <b>Senior Software Engineer</b>, contributed to <a href='https://www.windows.com' target='_blank'><b>Windows</b></a> and <a href='https://azure.microsoft.com/' target='_blank'><b>Azure</b></a>.",
     "social": [
         { "linkedin": "https://www.linkedin.com/in/tiagosomda/" },
         { "github": "https://github.com/tiagosomda" }
