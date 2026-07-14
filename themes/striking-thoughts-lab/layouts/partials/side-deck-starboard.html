@@ -1,0 +1,29 @@
+{{- $projects := where .Site.RegularPages "Section" "projects" -}}
+{{- $latest := first 3 $projects.ByDate.Reverse -}}
+<aside class="creative-side creative-side--starboard" aria-label="Creative Deck starboard instruments">
+  <div class="creative-side__sticky">
+    <section class="side-module side-telemetry">
+      <p class="side-kicker">CREATIVE TELEMETRY</p>
+      <div class="side-readouts">
+        <div><small>EXPERIMENTS</small><strong>{{ printf "%02d" (len $projects) }}</strong></div>
+        <div><small>SYSTEMS</small><strong>{{ printf "%02d" (len .Site.Taxonomies.tags) }}</strong></div>
+      </div>
+      <div class="side-wave" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+      <p class="side-current"><small>CURRENT CANVAS</small><b>{{ if .IsHome }}DECK OVERVIEW{{ else }}{{ .Title | upper }}{{ end }}</b></p>
+    </section>
+
+    <section class="side-module side-latest">
+      <p class="side-kicker">LATEST SIGNALS</p>
+      <nav aria-label="Latest experiments">
+        {{ range $index, $project := $latest }}
+          <a href="{{ $project.RelPermalink }}"><small>{{ printf "%02d" (add $index 1) }}</small><span>{{ $project.Title }}<b>{{ $project.Date.Format "2006" }}</b></span><i>↗</i></a>
+        {{ end }}
+      </nav>
+    </section>
+
+    <section class="side-module side-principle">
+      <p class="side-kicker">OPERATING PRINCIPLE</p>
+      <blockquote><small>NO WAY AS WAY</small><p>Adapt. Iterate. Play.</p></blockquote>
+    </section>
+  </div>
+</aside>

@@ -7,7 +7,6 @@ summary: "A quick little game that I made in about a day for the GTMK 2023 theme
 tags: ["Unity", "C#", "GMTK"]
 draft: false
 showTableOfContents: false
-showDate: true
 ---
 
 you can play it at [https://striking-thoughts.itch.io/save-a-mole](https://striking-thoughts.itch.io/save-a-mole) 

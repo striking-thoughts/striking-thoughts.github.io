@@ -1,0 +1,10 @@
+{{ define "main" }}
+<article class="simple-page lab-shell">
+  <header class="simple-hero reveal">
+    <p class="lab-eyebrow"><span></span> FIELD NOTE // {{ .Date.Format "2006.01.02" }}</p>
+    <h1>{{ .Title }}</h1>
+    {{ with .Summary }}<p>{{ . | plainify }}</p>{{ end }}
+  </header>
+  <div class="lab-prose simple-content reveal">{{ .Content }}</div>
+</article>
+{{ end }}

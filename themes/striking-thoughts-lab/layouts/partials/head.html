@@ -1,0 +1,29 @@
+{{- $description := .Description | default .Summary | default .Site.Params.description -}}
+{{- $title := .Site.Title -}}
+{{- if not .IsHome -}}{{- $title = printf "%s // %s" .Title .Site.Title -}}{{- end -}}
+{{- $featured := .Resources.GetMatch "featured*" -}}
+{{- $fallback := resources.Get "img/logo-b.png" -}}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#050b12">
+<meta name="color-scheme" content="dark">
+<title>{{ $title }}</title>
+<meta name="description" content="{{ $description | plainify }}">
+<link rel="canonical" href="{{ .Permalink }}">
+<link rel="icon" href="{{ "favicon.ico" | relURL }}">
+<link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}">
+<link rel="stylesheet" href="{{ "css/striking-thoughts.css" | relURL }}">
+{{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .RelPermalink }}">{{ end }}
+
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $description | plainify }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+{{ with $featured }}<meta property="og:image" content="{{ .Permalink }}">{{ else }}{{ with $fallback }}<meta property="og:image" content="{{ .Permalink }}">{{ end }}{{ end }}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $description | plainify }}">
+
+<script>document.documentElement.classList.remove('no-js');document.documentElement.classList.add('js');</script>
+<script defer src="{{ "js/striking-thoughts.js" | relURL }}"></script>

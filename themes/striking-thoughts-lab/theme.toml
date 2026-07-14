@@ -1,0 +1,10 @@
+name = "Striking Thoughts Creative Deck"
+license = "MIT"
+licenselink = "https://opensource.org/licenses/MIT"
+description = "A cinematic, responsive game-development portfolio for Striking Thoughts."
+homepage = "https://www.strikingthoughts.io"
+min_version = "0.120.0"
+
+[author]
+  name = "Tiago Sommer Damasceno"
+  homepage = "https://www.tiago.dev"

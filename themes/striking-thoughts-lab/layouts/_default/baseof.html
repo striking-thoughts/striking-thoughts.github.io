@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="{{ .Site.Language.Lang | default "en" }}" class="no-js">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body class="lab-page lab-page--{{ .Kind }}{{ if .IsHome }} lab-page--home{{ end }}">
+    <a class="skip-link" href="#main-content">Skip to the experiments</a>
+    <div class="scroll-rail" aria-hidden="true"><i data-scroll-progress></i></div>
+    <canvas class="thought-field" data-thought-field aria-hidden="true"></canvas>
+    <div class="lab-noise" aria-hidden="true"></div>
+
+    {{ if .IsHome }}{{ partial "intro.html" . }}{{ end }}
+    {{ partial "header.html" . }}
+
+    <div class="creative-frame">
+      {{ partial "side-deck-port.html" . }}
+      <div class="creative-channel">
+        <main id="main-content" class="lab-main">
+          {{ block "main" . }}{{ end }}
+        </main>
+      </div>
+      {{ partial "side-deck-starboard.html" . }}
+    </div>
+
+    {{ partial "footer.html" . }}
+  </body>
+</html>

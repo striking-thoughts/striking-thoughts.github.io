@@ -1,0 +1,33 @@
+{{ define "main" }}
+<section class="archive-hero lab-shell">
+  <p class="lab-eyebrow reveal"><span></span> COMPLETE CATALOG // {{ len .Pages }} SIGNALS</p>
+  <div class="archive-hero__title reveal">
+    <h1>Experiment<br><em>Archive</em></h1>
+    <div class="archive-hero__copy lab-prose">{{ .Content }}</div>
+  </div>
+  <div class="archive-wave" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+</section>
+
+<section class="archive lab-shell" data-project-filter>
+  <div class="filter-console reveal">
+    <div class="filter-search" data-filter-search>
+      <button type="button" aria-label="Open project search" aria-expanded="false" data-search-trigger><i></i></button>
+      <label><span class="sr-only">Search experiments</span><input type="search" placeholder="Search the archive…" autocomplete="off" data-project-search></label>
+    </div>
+    <div class="filter-tags" role="group" aria-label="Filter projects by technology">
+      <button class="is-active" type="button" data-tag-filter="all">ALL</button>
+      {{ range .Site.Taxonomies.tags.Alphabetical }}
+        <button type="button" data-tag-filter="{{ .Page.Title | lower }}">{{ .Page.Title }}</button>
+      {{ end }}
+    </div>
+    <p><span data-visible-count>{{ len .Pages }}</span> / {{ len .Pages }} VISIBLE</p>
+  </div>
+
+  <div class="project-grid project-grid--archive" data-project-grid>
+    {{ range $index, $page := .Pages.ByDate.Reverse }}
+      {{ partial "project-card.html" (dict "page" $page "index" (add $index 1)) }}
+    {{ end }}
+  </div>
+  <div class="filter-empty" data-filter-empty hidden><span>∅</span><h2>No signal found</h2><p>Try another title, engine, platform, or tag.</p></div>
+</section>
+{{ end }}

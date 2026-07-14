@@ -1,0 +1,31 @@
+{{- $page := .page -}}
+{{- $index := .index | default 1 -}}
+{{- $featured := $page.Resources.GetMatch "featured*" -}}
+{{- $tags := $page.Params.tags | default (slice) -}}
+<article class="project-card reveal" data-project-card data-title="{{ $page.Title | lower }}" data-tags="{{ delimit $tags "|" | lower }}">
+  <a class="project-card__link" href="{{ $page.RelPermalink }}" aria-label="Open {{ $page.Title }}"></a>
+  <div class="project-card__media">
+    {{ with $featured }}
+      {{ $cardImage := .Fill "960x640 Center webp q84" }}
+      <img src="{{ $cardImage.RelPermalink }}" width="{{ $cardImage.Width }}" height="{{ $cardImage.Height }}" loading="lazy" alt="Artwork for {{ $page.Title }}">
+    {{ else }}
+      <div class="project-card__fallback"><span>ST</span></div>
+    {{ end }}
+    <div class="project-card__scan" aria-hidden="true"></div>
+    <span class="project-card__index">EXP-{{ printf "%02d" $index }}</span>
+    <span class="project-card__open">OPEN <i>↗</i></span>
+  </div>
+  <div class="project-card__body">
+    <div class="project-card__meta">
+      <time datetime="{{ $page.Date.Format "2006-01-02" }}">{{ $page.Date.Format "2006" }}</time>
+      <span>PLAYABLE THOUGHT</span>
+    </div>
+    <h2>{{ $page.Title }}</h2>
+    <p>{{ $page.Summary | plainify }}</p>
+    {{ with $tags }}
+      <div class="project-tags" aria-label="Technologies">
+        {{ range first 4 . }}<span>{{ . }}</span>{{ end }}
+      </div>
+    {{ end }}
+  </div>
+</article>

@@ -1,0 +1,23 @@
+{{- $pattern := .Get "images" | default "gallery/*" -}}
+{{- $interval := .Get "interval" | default "4200" -}}
+{{- $images := .Page.Resources.Match $pattern -}}
+{{- if $images -}}
+<div class="lab-carousel" data-carousel data-interval="{{ $interval }}">
+  <div class="lab-carousel__viewport" data-carousel-viewport>
+    {{ range $index, $image := $images }}
+      {{ $slide := $image.Resize "1400x webp q88" }}
+      <figure class="lab-carousel__slide" data-carousel-slide>
+        <img src="{{ $slide.RelPermalink }}" width="{{ $slide.Width }}" height="{{ $slide.Height }}" loading="lazy" alt="{{ $.Page.Title }} gallery image {{ add $index 1 }}">
+        <figcaption>{{ printf "%02d" (add $index 1) }} / {{ printf "%02d" (len $images) }}</figcaption>
+      </figure>
+    {{ end }}
+  </div>
+  {{ if gt (len $images) 1 }}
+  <div class="lab-carousel__controls">
+    <button type="button" data-carousel-prev aria-label="Previous image">←</button>
+    <div data-carousel-dots>{{ range $index, $_ := $images }}<button{{ if eq $index 0 }} class="is-active"{{ end }} type="button" data-carousel-dot="{{ $index }}" aria-label="Show image {{ add $index 1 }}"></button>{{ end }}</div>
+    <button type="button" data-carousel-next aria-label="Next image">→</button>
+  </div>
+  {{ end }}
+</div>
+{{- end -}}

@@ -7,7 +7,6 @@ summary: "Made with love for my nephew, who is starting to love games. Used this
 tags: ["Godot", "GDScript", "iOS", "Android"]
 draft: false
 showTableOfContents: false
-showDate: true
 weight: 4
 ---
 
@@ -19,4 +18,3 @@ This is a very simple game made with love for my nephew.
 {{< carousel images="gallery/*" aspectRatio="auto" >}}
 
 > The iOS app is released and you can download it here: [https://apps.apple.com/us/app/hopper-the-bunny/id6541762616](https://apps.apple.com/us/app/hopper-the-bunny/id6541762616)   
-

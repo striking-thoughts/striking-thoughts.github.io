@@ -1,8 +1,0 @@
-{{ define "main" }}
-  {{ $partial := print "partials/home/" .Site.Params.homepage.layout ".html" }}
-  {{ if templates.Exists $partial }}
-    {{ partial (printf "home/%s.html" .Site.Params.homepage.layout) . }}
-  {{ else }}
-    {{ partial "home/profile.html" . }}
-  {{ end }}
-{{ end }}

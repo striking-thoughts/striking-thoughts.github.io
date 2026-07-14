@@ -7,7 +7,6 @@ summary: "A Vampire Survivors inspired game with the twist on how your life, amm
 tags: ["Godot", "GDScript", "GMTK"]
 draft: false
 showTableOfContents: false
-showDate: true
 weight: 1
 ---
 

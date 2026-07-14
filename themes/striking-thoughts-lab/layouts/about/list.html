@@ -1,0 +1,25 @@
+{{ define "main" }}
+{{- $portrait := resources.Get "img/tiagosomda.png" -}}
+<section class="about-page lab-shell">
+  <header class="about-hero reveal">
+    <p class="lab-eyebrow"><span></span> ORIGIN // PHILOSOPHY</p>
+    <h1>What is<br><em>Striking Thoughts?</em></h1>
+    <p>{{ .Description }}</p>
+  </header>
+
+  <div class="about-layout">
+    <aside class="creator-card reveal">
+      <div class="creator-card__image">{{ with $portrait }}<img src="{{ .RelPermalink }}" alt="Tiago Sommer Damasceno">{{ else }}<span>TS</span>{{ end }}<i></i></div>
+      <p><small>CREATOR</small><strong>TIAGO SOMMER DAMASCENO</strong><span>GAMEPLAY + SOFTWARE ENGINEER</span></p>
+      <nav>
+        <a href="https://www.pretty.games" target="_blank" rel="noreferrer">PRETTY GAMES <i>↗</i></a>
+        <a href="https://www.tiago.dev" target="_blank" rel="noreferrer">TIAGO.DEV <i>↗</i></a>
+        <a href="https://notes.tiago.dev" target="_blank" rel="noreferrer">CAPTAIN'S LOGS <i>↗</i></a>
+      </nav>
+    </aside>
+    <div class="lab-prose about-content reveal">{{ .Content }}</div>
+  </div>
+
+  <div class="about-action reveal"><a class="lab-button lab-button--primary" href="{{ "projects/" | relURL }}"><span>Explore the work</span><i>→</i></a></div>
+</section>
+{{ end }}

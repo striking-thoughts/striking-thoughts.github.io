@@ -1,0 +1,48 @@
+{{- $home := .Site.Home.RelPermalink -}}
+{{- $logo := resources.Get "img/logo-b.png" -}}
+<header class="lab-header" data-lab-header>
+  <a class="lab-brand" href="{{ $home }}" aria-label="Striking Thoughts home">
+    <span class="lab-brand__mark" aria-hidden="true">
+      {{ with $logo }}<img src="{{ .RelPermalink }}" alt="">{{ else }}<i>ST</i>{{ end }}
+    </span>
+    <span class="lab-brand__copy">
+      <strong><span>STRIKING</span><b>THOUGHTS</b></strong>
+      <small>CREATIVE DECK</small>
+    </span>
+  </a>
+
+  <nav class="desktop-nav" aria-label="Primary navigation">
+    <a{{ if eq .Section "projects" }} class="is-active"{{ end }} href="{{ "projects/" | relURL }}"><small>01</small> Projects</a>
+    <a{{ if eq .Section "about" }} class="is-active"{{ end }} href="{{ "about/" | relURL }}"><small>02</small> About</a>
+    <a href="https://www.tiago.dev" target="_blank" rel="noreferrer"><small>03</small> TIAGO.DEV <i>↗</i></a>
+    <a href="https://notes.tiago.dev" target="_blank" rel="noreferrer"><small>04</small> Captain's Logs <i>↗</i></a>
+    <a href="https://www.pretty.games" target="_blank" rel="noreferrer"><small>05</small> Pretty Games <i>↗</i></a>
+  </nav>
+
+  <div class="header-status" aria-hidden="true">
+    <span>DECK</span>
+    <b>ACTIVE</b>
+    <i></i>
+  </div>
+
+  <button class="nav-trigger" type="button" aria-expanded="false" aria-controls="mobile-navigation" data-nav-trigger>
+    <span>MENU</span><i aria-hidden="true"></i>
+  </button>
+</header>
+
+<button class="nav-scrim" type="button" tabindex="-1" aria-label="Close navigation" data-nav-close></button>
+<aside class="mobile-nav" id="mobile-navigation" aria-hidden="true" data-mobile-nav>
+  <div class="mobile-nav__head">
+    <span><small>INTERFACE</small><b>DECK DIRECTORY</b></span>
+    <button type="button" aria-label="Close navigation" data-nav-close>×</button>
+  </div>
+  <nav aria-label="Mobile navigation">
+    <a href="{{ $home }}"><small>00</small><span>Home<b>Enter the Creative Deck</b></span><i>→</i></a>
+    <a href="{{ "projects/" | relURL }}"><small>01</small><span>Projects<b>Games, prototypes & experiments</b></span><i>→</i></a>
+    <a href="{{ "about/" | relURL }}"><small>02</small><span>About<b>The philosophy behind the work</b></span><i>→</i></a>
+    <a href="https://www.tiago.dev" target="_blank" rel="noreferrer"><small>03</small><span>TIAGO.DEV<b>Return to the mothership</b></span><i>↗</i></a>
+    <a href="https://notes.tiago.dev" target="_blank" rel="noreferrer"><small>04</small><span>Captain's Logs<b>Read the latest transmissions</b></span><i>↗</i></a>
+    <a href="https://www.pretty.games" target="_blank" rel="noreferrer"><small>05</small><span>Pretty Games<b>The independent game company</b></span><i>↗</i></a>
+  </nav>
+  <div class="mobile-nav__foot"><span></span> SIGNAL LOCKED // CYAN CHANNEL</div>
+</aside>

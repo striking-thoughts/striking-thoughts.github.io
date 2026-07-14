@@ -1,0 +1,6 @@
+{{- $label := .label -}}
+{{- $url := "" -}}
+{{- range .site.Taxonomies.tags -}}
+  {{- if eq (lower .Page.Title) (lower $label) -}}{{- $url = .Page.RelPermalink -}}{{- end -}}
+{{- end -}}
+{{- if $url -}}<a href="{{ $url }}">{{ $label }}</a>{{- else -}}<span>{{ $label }}</span>{{- end -}}

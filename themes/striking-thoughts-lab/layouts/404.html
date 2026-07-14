@@ -1,0 +1,12 @@
+{{ define "main" }}
+<section class="error-page lab-shell">
+  <div class="error-orbit" aria-hidden="true"><i></i><i></i><span>404</span></div>
+  <p class="lab-eyebrow"><span></span> SIGNAL LOST</p>
+  <h1>This thought left the Creative Deck.</h1>
+  <p>The requested experiment does not exist here—or it found a more interesting path.</p>
+  <div class="hero-actions">
+    <a class="lab-button lab-button--primary" href="{{ .Site.Home.RelPermalink }}"><span>Return home</span><i>→</i></a>
+    <a class="lab-button" href="{{ "projects/" | relURL }}"><span>Browse projects</span><i>↗</i></a>
+  </div>
+</section>
+{{ end }}

@@ -1,0 +1,81 @@
+{{ define "main" }}
+{{- $projects := where .Site.RegularPages "Section" "projects" -}}
+{{- $featured := first 6 $projects.ByDate.Reverse -}}
+{{- $logo := resources.Get "img/logo-b.png" -}}
+<section class="home-hero lab-shell">
+  <div class="home-hero__copy reveal">
+    <p class="lab-eyebrow"><span></span> CREATIVE OUTLET // EXPERIMENTAL PLAY</p>
+    <h1>Games, experiments & <em><span class="possibility-shift" aria-label="possible"><s aria-hidden="true">im</s>possible</span> little ideas.</em></h1>
+    <p class="home-hero__lede">A collection of released experiments, prototypes, and games by <a href="https://www.tiago.dev">Tiago</a>—built to learn, explore, and see what happens when an idea becomes playable.</p>
+    <div class="hero-actions">
+      <a class="lab-button lab-button--primary" href="{{ "projects/" | relURL }}"><span>Browse experiments</span><i>→</i></a>
+      <a class="lab-button" href="{{ "about/" | relURL }}"><span>About the Creative Deck</span><i>↗</i></a>
+    </div>
+    <div class="hero-readings" aria-label="Portfolio statistics">
+      <div><small>EXPERIMENTS</small><strong>{{ len $projects }}</strong></div>
+      <div><small>ACTIVE SINCE</small><strong>2017</strong></div>
+      <div><small>PRIMARY MODE</small><strong>PLAY</strong></div>
+    </div>
+  </div>
+
+  <div class="idea-core reveal" aria-hidden="true">
+    <div class="idea-core__orbit idea-core__orbit--a"><i></i></div>
+    <div class="idea-core__orbit idea-core__orbit--b"><i></i></div>
+    <div class="idea-core__orbit idea-core__orbit--c"></div>
+    <div class="idea-core__image">
+      {{ with $logo }}<img src="{{ .RelPermalink }}" alt="">{{ else }}<span>ST</span>{{ end }}
+    </div>
+    <div class="idea-core__label idea-core__label--one"><small>INPUT</small><b>CURIOSITY</b></div>
+    <div class="idea-core__label idea-core__label--two"><small>OUTPUT</small><b>PLAYABLE</b></div>
+    <div class="idea-core__axis"><span>X</span><span>Y</span></div>
+  </div>
+
+  <div class="hero-corners" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+</section>
+
+<div class="signal-marquee" aria-hidden="true">
+  <div>
+    <span>PROTOTYPE</span><i>✦</i><span>GAMEPLAY</span><i>✦</i><span>SHADERS</span><i>✦</i><span>VIRTUAL REALITY</span><i>✦</i><span>GAME JAMS</span><i>✦</i><span>PROTOTYPE</span><i>✦</i><span>GAMEPLAY</span><i>✦</i><span>SHADERS</span><i>✦</i><span>VIRTUAL REALITY</span><i>✦</i><span>GAME JAMS</span><i>✦</i>
+  </div>
+</div>
+
+<section class="work-section lab-shell" id="experiments">
+  <header class="section-heading reveal">
+    <div>
+      <p class="lab-eyebrow"><span></span> SELECTED OUTPUT</p>
+      <h2>Recent experiments</h2>
+    </div>
+    <p>Small games, strange mechanics, technical studies, and joyful detours. Each one began with a question worth playing.</p>
+  </header>
+
+  <div class="project-grid">
+    {{ range $index, $page := $featured }}
+      {{ partial "project-card.html" (dict "page" $page "index" (add $index 1)) }}
+    {{ end }}
+  </div>
+
+  <div class="section-action reveal">
+    <a class="lab-button lab-button--wide" href="{{ "projects/" | relURL }}"><span>Enter the complete experiment archive</span><i>→</i></a>
+  </div>
+</section>
+
+<section class="philosophy-band">
+  <div class="lab-shell philosophy-band__inner reveal">
+    <p class="lab-eyebrow"><span></span> OPERATING PRINCIPLE</p>
+    <blockquote>
+      <small>NO WAY AS WAY</small>
+      <p>Stay adaptable. Follow the interesting problem. Let the work reveal what it wants to become.</p>
+    </blockquote>
+    <a href="{{ "about/" | relURL }}">READ THE STRIKING THOUGHTS PHILOSOPHY <i>↗</i></a>
+  </div>
+</section>
+
+<section class="tool-cloud lab-shell reveal">
+  <header><p class="lab-eyebrow"><span></span> WORKING MATERIALS</p><h2>Creative instruments</h2></header>
+  <div>
+    {{ range first 18 .Site.Taxonomies.tags.Alphabetical }}
+      <a href="{{ .Page.RelPermalink }}"><span>{{ .Page.Title }}</span><small>{{ .Count }}</small></a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

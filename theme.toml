@@ -1,21 +1,11 @@
-# Blowfish theme for Hugo
-
-name = "Blowfish"
+name = "Striking Thoughts Creative Deck"
 license = "MIT"
-licenselink = "https://github.com/nunocoracao/blowfish/blob/main/LICENSE"
-description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
-
-homepage = "https://github.com/nunocoracao/blowfish/"
-demosite = "https://blowfish.page/"
-
-tags = ["blog", "minimal", "responsive", "dark mode", "dark", "light", "tailwind", "personal"]
-features = ["syntax highlighting", "dark mode", "emoji", "firebase", "views"]
+licenselink = "https://opensource.org/licenses/MIT"
+description = "A cinematic game-development portfolio and creative experiment archive."
+homepage = "https://www.strikingthoughts.io"
+tags = ["portfolio", "games", "responsive", "dark", "creative"]
+features = ["project filters", "touch galleries", "responsive navigation", "reduced motion"]
 
 [author]
-  name = "Nuno Coracao"
-  homepage = "https://nunocoracao.com/"
-
-[original]
-  author = "James Panther"
-  homepage = "https://jamespanther.com/"
-  repo = "https://github.com/jpanther/congo"
+  name = "Tiago Sommer Damasceno"
+  homepage = "https://www.tiago.dev"

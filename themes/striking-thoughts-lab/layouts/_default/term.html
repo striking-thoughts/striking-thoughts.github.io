@@ -1,0 +1,13 @@
+{{ define "main" }}
+<section class="term-page lab-shell">
+  <header class="simple-hero reveal">
+    <a class="back-link" href="{{ "tags/" | relURL }}">← ALL CLASSIFICATIONS</a>
+    <p class="lab-eyebrow"><span></span> FILTERED SIGNAL</p>
+    <h1>{{ .Title }}</h1>
+    <p>{{ len .Pages }} {{ if eq (len .Pages) 1 }}experiment{{ else }}experiments{{ end }} connected to this signal.</p>
+  </header>
+  <div class="project-grid">
+    {{ range $index, $page := .Pages.ByDate.Reverse }}{{ partial "project-card.html" (dict "page" $page "index" (add $index 1)) }}{{ end }}
+  </div>
+</section>
+{{ end }}

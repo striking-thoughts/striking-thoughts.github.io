@@ -1,0 +1,28 @@
+<aside class="creative-side creative-side--port" aria-label="Creative Deck port-side instruments">
+  <div class="creative-side__sticky">
+    <section class="side-module side-directory">
+      <p class="side-kicker">DECK 03 // DIRECTORY</p>
+      <h2>Creative Deck</h2>
+      <nav aria-label="Creative Deck directory">
+        <a{{ if .IsHome }} class="is-active"{{ end }} href="{{ .Site.Home.RelPermalink }}"><small>00</small><span>Deck Overview</span><i>→</i></a>
+        <a{{ if eq .Section "projects" }} class="is-active"{{ end }} href="{{ "projects/" | relURL }}"><small>01</small><span>Experiments</span><i>→</i></a>
+        <a{{ if eq .Section "about" }} class="is-active"{{ end }} href="{{ "about/" | relURL }}"><small>02</small><span>Philosophy</span><i>→</i></a>
+        <a href="https://www.tiago.dev" target="_blank" rel="noreferrer"><small>↗</small><span>TIAGO.DEV</span><i>↗</i></a>
+      </nav>
+    </section>
+
+    <section class="side-module side-reactor" aria-label="Idea reactor">
+      <p class="side-kicker">IDEA REACTOR // ACTIVE</p>
+      <div class="side-reactor__core" aria-hidden="true">
+        <span></span><i></i><i></i><b></b>
+      </div>
+      <dl>
+        <div><dt>INPUT</dt><dd>CURIOSITY</dd></div>
+        <div><dt>PROCESS</dt><dd>ITERATION</dd></div>
+        <div><dt>OUTPUT</dt><dd>PLAY</dd></div>
+      </dl>
+    </section>
+
+    <p class="side-vertical" aria-hidden="true">STRIKING THOUGHTS // CREATIVE SIGNAL</p>
+  </div>
+</aside>

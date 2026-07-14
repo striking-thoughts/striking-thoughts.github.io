@@ -1,0 +1,11 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $caption := .Get "caption" -}}
+{{- $href := .Get "href" -}}
+{{- $resource := .Page.Resources.GetMatch $src -}}
+<figure class="lab-figure">
+  {{ with $href }}<a href="{{ . }}" target="_blank" rel="noreferrer">{{ end }}
+  {{ with $resource }}{{ $image := .Resize "1400x webp q88" }}<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" loading="lazy" alt="{{ $alt }}">{{ else }}<img src="{{ $src }}" loading="lazy" alt="{{ $alt }}">{{ end }}
+  {{ if $href }}</a>{{ end }}
+  {{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
+</figure>

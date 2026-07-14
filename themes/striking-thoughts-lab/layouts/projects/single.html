@@ -1,0 +1,39 @@
+{{ define "main" }}
+{{- $featured := .Resources.GetMatch "featured*" -}}
+<article class="project-page">
+  <header class="project-hero">
+    {{ with $featured }}
+      {{ $heroImage := .Resize "1800x webp q88" }}
+      <div class="project-hero__image"><img src="{{ $heroImage.RelPermalink }}" width="{{ $heroImage.Width }}" height="{{ $heroImage.Height }}" alt="Artwork for {{ $.Title }}"></div>
+    {{ end }}
+    <div class="project-hero__veil"></div>
+    <div class="project-hero__content lab-shell reveal">
+      <a class="back-link" href="{{ "projects/" | relURL }}">← EXPERIMENT ARCHIVE</a>
+      <p class="lab-eyebrow"><span></span> PLAYABLE THOUGHT // {{ .Date.Format "2006" }}</p>
+      <h1>{{ .Title }}</h1>
+      <p class="project-hero__summary">{{ .Summary | plainify }}</p>
+      {{ with .Params.tags }}<div class="project-tags project-tags--hero">{{ range . }}{{ partial "tag-link.html" (dict "label" . "site" $.Site) }}{{ end }}</div>{{ end }}
+    </div>
+    <div class="hero-corners" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+  </header>
+
+  <div class="project-body lab-shell">
+    <aside class="project-telemetry reveal">
+      <p>EXPERIMENT DATA</p>
+      <dl>
+        <div><dt>RELEASE</dt><dd>{{ .Date.Format "2006.01.02" }}</dd></div>
+        <div><dt>FORMAT</dt><dd>PERSONAL PROJECT</dd></div>
+        <div><dt>STATUS</dt><dd><i></i> ARCHIVED</dd></div>
+      </dl>
+      {{ with .Params.tags }}<div class="project-telemetry__tags"><small>SYSTEMS / TOOLS</small>{{ range . }}{{ partial "tag-link.html" (dict "label" . "site" $.Site) }}{{ end }}</div>{{ end }}
+      <a class="lab-button" href="{{ "projects/" | relURL }}"><span>All experiments</span><i>→</i></a>
+    </aside>
+    <div class="lab-prose project-content reveal">{{ .Content }}</div>
+  </div>
+
+  <nav class="project-pagination lab-shell" aria-label="More projects">
+    {{ with .PrevInSection }}<a href="{{ .RelPermalink }}"><small>PREVIOUS SIGNAL</small><b>← {{ .Title }}</b></a>{{ else }}<span></span>{{ end }}
+    {{ with .NextInSection }}<a href="{{ .RelPermalink }}"><small>NEXT SIGNAL</small><b>{{ .Title }} →</b></a>{{ end }}
+  </nav>
+</article>
+{{ end }}

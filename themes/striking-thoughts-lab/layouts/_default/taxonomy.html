@@ -1,0 +1,14 @@
+{{ define "main" }}
+<section class="taxonomy-page lab-shell">
+  <header class="simple-hero reveal">
+    <p class="lab-eyebrow"><span></span> SIGNAL CLASSIFICATION</p>
+    <h1>{{ .Title }}</h1>
+    <p>Browse the engines, platforms, disciplines, and ideas running through the experiment archive.</p>
+  </header>
+  <div class="taxonomy-cloud reveal">
+    {{ range .Data.Terms.Alphabetical }}
+      <a href="{{ .Page.RelPermalink }}"><span>{{ .Page.Title }}</span><small>{{ printf "%02d" .Count }}</small><i>↗</i></a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

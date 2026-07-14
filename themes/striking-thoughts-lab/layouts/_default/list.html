@@ -1,0 +1,15 @@
+{{ define "main" }}
+<section class="simple-page lab-shell">
+  <header class="simple-hero reveal">
+    <p class="lab-eyebrow"><span></span> DIRECTORY // {{ upper .Kind }}</p>
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p>{{ . }}</p>{{ end }}
+  </header>
+  {{ with .Content }}<div class="lab-prose simple-content reveal">{{ . }}</div>{{ end }}
+  {{ if .Pages }}
+    <div class="project-grid">
+      {{ range $index, $page := .Pages.ByDate.Reverse }}{{ partial "project-card.html" (dict "page" $page "index" (add $index 1)) }}{{ end }}
+    </div>
+  {{ end }}
+</section>
+{{ end }}
